@@ -1,8 +1,22 @@
 # People Index
 
-This folder is reserved for one-file-per-person biographies and relationship maps.
+This folder is for one-file-per-person biographies and relationship maps.
 
-The first-pass genealogy currently lives in [`../forensics/02-cast-genealogy.md`](../forensics/02-cast-genealogy.md). Individual files should be created as source research deepens.
+The first-pass genealogy lives in [`../forensics/02-cast-genealogy.md`](../forensics/02-cast-genealogy.md). Individual files are being added as source research deepens.
+
+## Completed / active community biographies
+
+- [`community/gvac-greg-petraitis.md`](community/gvac-greg-petraitis.md) — founding-era RFNet member, caller, offline friend network, later *Weird Medicine* participant
+- [`community/mikeyboy.md`](community/mikeyboy.md) — former RFNet admin, photographer, archive custodian, occasional show participant
+- [`community/justjon.md`](community/justjon.md) — founding-era member, early media uploader, front-page/event organizer; exact formal governance title still under investigation
+- [`community/french-bread-pizza.md`](community/french-bread-pizza.md) — surviving Paltalk listing identifies French Bread Pizza as owner of the Ron and Fez Big ASS Room
+- [`community/happy-typing-girl-debbie-wolf.md`](community/happy-typing-girl-debbie-wolf.md) — longtime fan, Paltalk/social figure, event participant, PAC/CNN crossover
+- [`community/irish-alkey-patrick.md`](community/irish-alkey-patrick.md) — community member whose 2011 death/funeral appeal demonstrates the board's real-world mutual-aid function
+- [`community/sheepy.md`](community/sheepy.md) — board/social personality, live-event comic target, useful case for the insider-era divide
+- [`community/bronx-johnny.md`](community/bronx-johnny.md) — R&F intern/contributor connecting the show to High Society Radio and the multi-board ecology
+- [`community/perrynoid.md`](community/perrynoid.md) — deliberately performed fan persona/musician and WJFK-era contributor
+
+These files preserve uncertainty instead of filling biographical gaps with fan lore.
 
 ## Biography template
 
@@ -46,9 +60,9 @@ Each person file should eventually include:
 
 ## Fairfax / WJFK friends-of-show branch
 
-- Perrynoid
+- Perrynoid — profile started
 - Cherrynoid
-- Mikeyboy
+- Mikeyboy — profile started
 - David Lee Kinison / Elfish
 - Cigar Sid / Sidcada
 - Crazy Jen
@@ -84,18 +98,30 @@ Each person file should eventually include:
 
 ## Fan/community figures
 
-- Happy Typing Girl / Debbie Wolf
-- French Bread Pizza / Frenchie
-- Sheepy
-- G-VAC
+- Happy Typing Girl / Debbie Wolf — profile started
+- French Bread Pizza / Frenchie — profile started
+- Sheepy — profile started
+- G-VAC / Greg Petraitis — profile started
+- Irish Alkey / Patrick — profile started
+- Bronx Johnny — profile started
+- JustJon — profile started
 - Mafia Life Chris
 - Hard Rock Johnny
-- Irish Alkey
-- Bronx Johnny
 - BL
 - Mikey D
 - Baby Girl
+- G-Baby
+- Silera
+- Crazed
+- GAZ
+- Reilly
+- Hottub
+- spoon
+- Fallon
+- S0S
+- thepaulo
 - Doctor Steve
+- Sleeves
 - 202Friends participants
 - major RonFez.net moderators/admins
 - major Paltalk regulars
@@ -133,3 +159,7 @@ For every person, the more useful question is:
 > **How did this human being enter the R&F system, what relationships made them useful, who shaped their radio identity, and how much of the identity was consciously performed?**
 
 That distinction is essential for a show where real people, fictional people, heightened personas, fans, employees, and friends all appeared in the same continuity.
+
+### Detail policy
+
+No figure is excluded merely for being obscure. If a reliable trace survives—one call, one board role, one event photo, one song credit, one notorious thread—it belongs in the research queue and eventually gets an entry.
