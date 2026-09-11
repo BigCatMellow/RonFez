@@ -15,6 +15,9 @@ The first-pass genealogy lives in [`../forensics/02-cast-genealogy.md`](../foren
 - [`community/sheepy.md`](community/sheepy.md) — board/social personality, live-event comic target, useful case for the insider-era divide
 - [`community/bronx-johnny.md`](community/bronx-johnny.md) — R&F intern/contributor connecting the show to High Society Radio and the multi-board ecology
 - [`community/perrynoid.md`](community/perrynoid.md) — deliberately performed fan persona/musician and WJFK-era contributor
+- [`community/bl-brenda-lee.md`](community/bl-brenda-lee.md) — Florida prehistory: Ron & Ron screener/on-air talent, *Hooters on the Radio*, SportsChix, R&F/Bennington continuity
+- [`community/crazy-jen.md`](community/crazy-jen.md) — WJFK listener/studio regular, Chinese Water Torture, event participant, later Paltalk/XM figure
+- [`community/big-a-andrew-gold.md`](community/big-a-andrew-gold.md) — shared O&A/R&F satellite personality with a particularly important Fez relationship
 
 These files preserve uncertainty instead of filling biographical gaps with fan lore.
 
@@ -65,10 +68,14 @@ Each person file should eventually include:
 - Mikeyboy — profile started
 - David Lee Kinison / Elfish
 - Cigar Sid / Sidcada
-- Crazy Jen
+- Crazy Jen — profile started
 - Don the Hypnotist
 - J-Dubbs
 - El Jefe
+- Tender
+- BoBo
+- Mike the Teacher
+- Silera
 - other WJFK regulars to recover
 
 ## XM / SiriusXM core
@@ -85,11 +92,14 @@ Each person file should eventually include:
 
 - Paul O
 - Gail O
-- other *Ron & Ron*-era figures carried forward
+- B.L. / Brenda Lee — profile started
+- Julie Williams
+- Lynne Austin
+- other *Ron & Ron* / *Hooters on the Radio* figures carried forward
 
 ## O&A / shared satellite ecosystem
 
-- Big A / Andrew Gold
+- Big A / Andrew Gold — profile started
 - Stalker Patti
 - Anthony Cumia
 - Opie Hughes
@@ -107,7 +117,7 @@ Each person file should eventually include:
 - JustJon — profile started
 - Mafia Life Chris
 - Hard Rock Johnny
-- BL
+- BL — see Florida continuity profile
 - Mikey D
 - Baby Girl
 - G-Baby
@@ -120,6 +130,11 @@ Each person file should eventually include:
 - Fallon
 - S0S
 - thepaulo
+- Flea / FleaMan
+- Brazilian Julie
+- Dizzy
+- AngryMissy
+- Leticia
 - Doctor Steve
 - Sleeves
 - 202Friends participants
