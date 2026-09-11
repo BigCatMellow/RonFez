@@ -230,6 +230,41 @@ Research should determine whether this high-download artifact covers:
 
 ---
 
+# September 2026 exact-title search pass
+
+A dedicated search pass tested the following exact titles individually across the indexed public web and specifically against `ronfez.net` where possible:
+
+- `"Slumber Party Pics"`
+- `"A Night at Double D's"`
+- `"RonFez.Net on WWF Smackdown!"`
+- `"CyberSoldier Holiday Party Pics 2002"`
+- `"Moshin's Tattoo"`
+- `"The Group Photo"`
+
+## Result
+
+All six searches repeatedly collapse back to the same surviving **Most Popular Files** block in RFNet's category pages.
+
+No indexed individual detail/download page, reliable mirror, independent event recap, or surviving gallery page surfaced for any of the six during this pass.
+
+The RFNet category page itself also timed out on one direct open attempt even though search-engine indexing continues to expose its text.
+
+### Why this negative result matters
+
+Do **not** repeat ordinary search-engine exact-title queries as the next step. That route has now been exhausted enough to be low-yield.
+
+The next retrieval gate should be:
+
+1. identify historical RFNet file IDs through old HTML/source or Wayback captures;
+2. query the Internet Archive CDX/Wayback index for old `displaymedia.cfm`, `downloads.php?do=file`, or equivalent detail URLs;
+3. inspect archived category pages from 2001–03 rather than the restored current site;
+4. search old RFNet threads for the titles/people rather than the media library alone;
+5. cross-match WWF event calendars, CyberSoldier, Moshin, and early meetup names against dated show audio.
+
+This search failure is therefore recorded as a **do-not-redo checkpoint**.
+
+---
+
 # Why download counts need caution
 
 The counters visible today are not necessarily 2002-era counts. They may have accumulated across migrations/restorations and continued visits.
@@ -240,8 +275,8 @@ Use them for **relative cultural prominence in the surviving archive**, not as e
 
 # Priority order
 
-1. Recover exact download/detail page for **Slumber Party Pics**.
-2. Recover **A Night at Double D's**.
+1. Recover historical file IDs / Wayback detail page for **Slumber Party Pics**.
+2. Recover **A Night at Double D's** detail page.
 3. Identify the **WWF SmackDown** episode/taping.
 4. Recover CyberSoldier party images and roster.
 5. Recover Moshin tattoo artifact.
