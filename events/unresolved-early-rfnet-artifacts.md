@@ -65,11 +65,15 @@ In other words, the archive preserved **the society itself**.
 ## Research path
 
 Search:
-- RFNet archive by exact title;
-- Wayback captures of the download page;
-- gallery category names;
+- historical RFNet file IDs / archived detail pages;
+- gallery category names, filenames and descriptions;
 - WNEW/WJFK audio for “slumber party” references;
-- GVac/JustJon/Mikeyboy-era threads.
+- GVac/JustJon/Mikeyboy-era threads;
+- third-party pages preserving old RFNet deep links.
+
+### Explicit non-linkage
+
+The current gallery contains an item named `SLEEPY_FEZ`, but no recovered evidence connects that image to **Slumber Party Pics**. Similar wording is not enough to merge them.
 
 **Status: artifact existence A/D; event context U.**
 
@@ -144,16 +148,33 @@ This is a particularly interesting cultural crossover because R&F borrowed heavi
 - whether Ron/Fez discussed it on-air;
 - whether the file is photo, video, animation, or screenshot packet.
 
+## Candidate-date pass
+
+Confirmed local SmackDown tapings in the strongest 2001–02 RFNet geography include:
+
+- **February 13, 2001** — Nassau Coliseum, Long Island, NY; aired February 15;
+- **June 26, 2001** — Madison Square Garden, New York, NY; aired June 28;
+- **November 6, 2001** — Continental Airlines Arena, East Rutherford, NJ; aired November 8;
+- **January 8, 2002** — Madison Square Garden, New York, NY; aired January 10.
+
+Wrestling-result sources:
+- https://thehistoryofwwe.com/wwf-smackdown-2001/
+- https://thehistoryofwwe.com/nassau-coliseum-results-2000s/
+- https://thehistoryofwwe.com/meadowlands-arena-results-2000s/
+- https://www.theofficialwrestlingmuseum.com/wwfwwe-live-event-results-2002.html
+
+These are **candidate tapings only**. No recovered source currently connects RFNet members to any one of them.
+
 ## Research path
 
 Cross-reference:
-- WWF SmackDown episode dates 2001–03;
-- New York/New Jersey tapings;
-- RFNet thread archives;
-- file category metadata;
-- screenshots/signage search.
+- exact candidate taping/air dates against RFNet threads and WNEW audio;
+- screenshots/crowd-sign archives;
+- historical gallery/file IDs;
+- external wrestling boards that may preserve RFNet links;
+- later local tapings if the artifact proves post-2002.
 
-**Status: file existence A/D; event identification U.**
+**Status: file existence A/D; candidate taping set narrowed; event identification U.**
 
 ---
 
@@ -182,6 +203,8 @@ That again suggests fan events were meaningful independent artifacts.
 - relation to station Christmas events;
 - photographer/uploader.
 
+Searches for modern or unrelated `CyberSoldier` identities are not useful evidence and should not be merged into this person without an RFNet-specific bridge.
+
 **Status: A/D for archive title; U for details.**
 
 ---
@@ -191,13 +214,25 @@ That again suggests fan events were meaningful independent artifacts.
 ## Current evidence
 
 - exact title appears in RFNet Most Popular Files;
-- ~9.8k downloads.
+- ~9.8k downloads;
+- a preserved fan-compiled Ron & Fez character census created in late 2007 independently lists **Moshin** in its `WNEW Era` section.
 
-This may represent one of the strongest forms of fan identity becoming physical: someone apparently got a tattoo significant enough to R&F/RFNet that photographs or documentation became a heavily accessed archive item.
+Source for the later census:
+- https://wikibin.org/articles/list-of-ron-and-fez-show-characters.html
+
+### Evidence caution
+
+That page was itself deleted from Wikipedia for lacking reliable sources/notability. It is therefore useful only as **low-grade archival fan documentation**.
+
+It supports the narrower statement:
+
+> by 2007, Moshin was remembered as an early/WNEW-era Ron & Fez figure.
+
+It does **not** identify the tattoo or establish Moshin's real identity.
 
 ## Unknown
 
-- who Moshin was;
+- who Moshin was beyond the early-community association;
 - tattoo image/text;
 - whether R&F/Big ASS logo or another inside reference;
 - date;
@@ -207,7 +242,7 @@ This may represent one of the strongest forms of fan identity becoming physical:
 
 Do not describe the tattoo until the artifact itself is recovered.
 
-**Status: U beyond file title/popularity.**
+**Status: artifact existence A/D; Moshin early-community association E; tattoo content U.**
 
 ---
 
@@ -253,15 +288,92 @@ The RFNet category page itself also timed out on one direct open attempt even th
 
 Do **not** repeat ordinary search-engine exact-title queries as the next step. That route has now been exhausted enough to be low-yield.
 
-The next retrieval gate should be:
-
-1. identify historical RFNet file IDs through old HTML/source or Wayback captures;
-2. query the Internet Archive CDX/Wayback index for old `displaymedia.cfm`, `downloads.php?do=file`, or equivalent detail URLs;
-3. inspect archived category pages from 2001–03 rather than the restored current site;
-4. search old RFNet threads for the titles/people rather than the media library alone;
-5. cross-match WWF event calendars, CyberSoldier, Moshin, and early meetup names against dated show audio.
-
 This search failure is therefore recorded as a **do-not-redo checkpoint**.
+
+---
+
+# September 11, 2026 historical-URL reconstruction pass
+
+The next gate has now been partially executed and documented in:
+
+- `reference/10-rfnet-media-url-reconstruction.md`
+
+## Major technical finding — old numeric deep links survived elsewhere
+
+A January 2007 Friends of Tom forum thread copied three live RFNet media links in the form:
+
+`http://www.ronfez.net/displaymedia.cfm/id/<number>`
+
+including IDs **2989**, **3004** and **3018**, with plain-language descriptions of the linked R&F segments.
+
+Source:
+- https://friendsoftom.com/forum/index.php?topic=231.15
+
+This proves that third-party forums can preserve RFNet's lost **numeric item IDs** even when the original media pages disappear.
+
+## Restored direct-file anchors
+
+Search indexing also exposes individual restored RFNet pages using:
+
+`downloads.php?do=file&id=<number>`
+
+Useful anchors include:
+
+- **1986** — `Lizzy Grubman - Bowling For White Trash - Photo Pack!!!`; uploaded by JustJon; Date Added 07-20-2001;
+- **2038** — `BILLY STAPLES BANGED HIS ASS UP`; uploaded by JustJon; Date Added 05-23-2002;
+- **2243** — `3/18/02 - Tenacious C and Wonderboy interview Tara Reid`; Date Added 07-09-2004.
+
+### Crucial chronology warning
+
+ID 2243 proves that **content/event date and archive-entry date can be years apart**.
+
+Therefore numeric IDs can help map the archive, but cannot be treated as a simple event-date sequence.
+
+## Old-ID/new-ID mapping still unknown
+
+It is not yet proven that old `displaymedia.cfm` numeric IDs were preserved unchanged in the restored `downloads.php` system.
+
+The highest-value technical test is now:
+
+> find one known old `displaymedia.cfm` item in the restored library and compare its ID.
+
+That determines whether a direct old-to-new crosswalk is possible.
+
+## Gallery as second recovery surface
+
+The restored Photo Gallery preserves historical material with:
+
+- category breadcrumbs;
+- original-source credits in descriptions;
+- filenames sometimes containing older dates;
+- comments correcting identities;
+- migration-era uploader accounts such as Mikeyboy.
+
+The displayed gallery upload date must remain separate from the original event/photo date.
+
+## Common Crawl / CDX status
+
+Common Crawl provides URL-index enumeration that could theoretically list captured historical RFNet URLs by pattern.
+
+This route was **not successfully executable in the current tool environment** because arbitrary constructed archive-index URLs could not be opened and container network access was unavailable.
+
+That is an access limitation, **not evidence of zero captures**.
+
+Next external/archive-index queries should target:
+
+- `ronfez.net/displaymedia.cfm/*`
+- `www.ronfez.net/displaymedia.cfm/*`
+- `ronfez.net/forums/downloads.php?do=file*`
+- relevant gallery paths.
+
+## Revised retrieval gate
+
+1. mine third-party forums/blogs for copied `displaymedia.cfm/id/` links;
+2. establish one old-ID ↔ restored-ID crosswalk;
+3. run Common Crawl/Wayback URL enumeration when a tool can query arbitrary archive indexes;
+4. enumerate numeric restored file pages safely;
+5. mine gallery metadata/comments as a parallel provenance layer;
+6. cross-match recovered IDs to dated audio and threads.
 
 ---
 
@@ -275,14 +387,17 @@ Use them for **relative cultural prominence in the surviving archive**, not as e
 
 # Priority order
 
-1. Recover historical file IDs / Wayback detail page for **Slumber Party Pics**.
+1. Recover historical file IDs / detail page for **Slumber Party Pics**.
 2. Recover **A Night at Double D's** detail page.
-3. Identify the **WWF SmackDown** episode/taping.
+3. Identify the **WWF SmackDown** episode/taping from the candidate set or later local dates.
 4. Recover CyberSoldier party images and roster.
 5. Recover Moshin tattoo artifact.
 6. Identify `The Group Photo`.
 7. Separate Big Ass Fights archive item by event.
+8. Establish whether old and restored RFNet numeric media IDs crosswalk directly.
 
 ## Core interpretation
 
 These titles reveal a hidden truth about RFNet: some of its most durable artifacts were **not recordings of Ron and Fez talking**. They were evidence that listeners had turned the show into something they could attend, photograph, wear, tattoo, and recognize themselves inside.
+
+The technical problem is now clearer as well: much of this history is hidden behind a **broken index**, not necessarily lost content. Reconstructing RFNet's historical address system may reopen entire clusters of early-community evidence.
