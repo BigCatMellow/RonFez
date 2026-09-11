@@ -1,0 +1,77 @@
+name: Preserve External Sources
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_saves:
+        description: Maximum Wayback Save Page Now requests for this run
+        required: false
+        default: "30"
+  schedule:
+    - cron: "17 7 * * 0"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/preserve-sources.yml"
+      - "scripts/preserve_sources.py"
+      - "preservation/README.md"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: preserve-external-sources
+  cancel-in-progress: false
+
+jobs:
+  preserve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build source manifest and request bounded Wayback saves
+        env:
+          MAX_SAVES: ${{ github.event.inputs.max_saves || '30' }}
+        run: |
+          python scripts/preserve_sources.py \
+            --save-wayback \
+            --max-saves "$MAX_SAVES" \
+            --recent-days 180 \
+            --workers 8
+
+      - name: Show preservation summary
+        run: |
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+          p = Path('preservation/source-manifest.csv')
+          rows = list(csv.DictReader(p.open(encoding='utf-8')))
+          archived = sum(bool(r['wayback_snapshot']) for r in rows)
+          attempted = sum(r['save_attempted'] == 'yes' for r in rows)
+          live = sum(r['live_status'].startswith(('2','3')) for r in rows)
+          print(f'Sources: {len(rows)}')
+          print(f'Live/redirecting: {live}')
+          print(f'Wayback snapshot known: {archived}')
+          print(f'Fresh save attempts this run: {attempted}')
+          PY
+
+      - name: Commit refreshed preservation manifest
+        run: |
+          if git diff --quiet -- preservation/source-manifest.csv && git ls-files --error-unmatch preservation/source-manifest.csv >/dev/null 2>&1; then
+            echo "Manifest unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add preservation/source-manifest.csv
+          git commit -m "Refresh external source preservation manifest [skip ci]"
+          git push
