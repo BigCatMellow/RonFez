@@ -180,7 +180,7 @@ Do not spend another pass simply repeating:
 - title + approximate download count;
 - title + generic `downloads.php` terms.
 
-New work should target **URLs, IDs, external copied links, archived indexes or gallery metadata**.
+New work should target **URLs, IDs, external copied links, archived indexes, forum archives or gallery metadata**.
 
 ---
 
@@ -220,7 +220,42 @@ The external discussion can be more historically useful than the dead link itsel
 
 ---
 
-## 7. Gallery reconstruction is a separate but complementary route
+## 7. The plain-text RFNet forum archive is a second historical index
+
+Search indexing exposes original RFNet threads through paths such as:
+
+`/forums/archive/index.php/t-<thread>.html`
+
+These pages can preserve:
+
+- original usernames;
+- exact post dates/times;
+- signatures;
+- embedded image/source URLs;
+- outbound links;
+- forum breadcrumbs;
+- contemporaneous reactions to events.
+
+Example:
+- https://www.ronfez.net/forums/archive/index.php/t-600.html — April 20, 2001 `Iris Is Missing!`
+
+This matters because an event/photo page can disappear while the thread that announced or discussed it remains searchable.
+
+### Recovery use
+
+For unresolved event media, search not just the modern File Library but the old forum archive around:
+
+- event names;
+- participant handles;
+- venue names;
+- `pics`, `photos`, `gallery`, `download`, `media`;
+- old `displaymedia.cfm` links.
+
+The indexing is uneven, so failure to find a thread is not evidence that none existed.
+
+---
+
+## 8. Gallery reconstruction is a separate but complementary route
 
 The restored RFNet Photo Gallery preserves material that may have originated years earlier.
 
@@ -256,11 +291,123 @@ Collapsing those into one `date` creates false chronology.
 
 ---
 
-## 8. Common Crawl / archive-index route
+## 9. First RFNet Christmas party creates a new file↔gallery crosswalk strategy
 
-The next technically promising route is URL-index enumeration rather than page-text search.
+The `Christmas Party 2002` case is the first unresolved-artifact branch where social evidence has narrowed multiple opaque file titles at once.
 
-Common Crawl documents a CDX-style URL index that can query captured URLs by pattern. Its 2013-era collections are old enough that they may have crawled RFNet pages or stale deep links that no longer surface in normal search.
+Direct/restored evidence:
+
+- RFNet gallery category: **`Christmas Party 2002`**;
+- at least one indexed image in that category: **Chris the Cop**.
+
+Later apparent-participant discussion:
+
+- post title: **`First RF.NET X-Mas party`**;
+- participant identifies it as **2002**;
+- the posted group photograph was apparently **labeled**;
+- two **additional group shots** are remembered as surviving in the archive;
+- HordeKing, Stalker Patti, Hosp and Moshin are identified in the labeled group-image discussion;
+- Dave & Buster's at the Palisades mall is remembered as the venue, still pending contemporary confirmation.
+
+Source:
+- https://www.reddit.com/r/ronandfez/comments/10dvfb9
+
+See:
+- `../events/christmas-party-2002-unresolved.md`
+
+### Candidate crosswalk A — `The Group Photo`
+
+The existence of at least three remembered party group images makes the generic high-download File Library artifact **`The Group Photo`** newly testable against a specific event/photo cluster.
+
+No direct bridge currently proves the identity.
+
+Status:
+
+> **first-RFNet-Christmas-party group shot ↔ `The Group Photo`: U-level hypothesis.**
+
+### Candidate crosswalk B — `CyberSoldier Holiday Party Pics 2002`
+
+The same event creates an obvious candidate context for **`CyberSoldier Holiday Party Pics 2002`**.
+
+What is now much stronger:
+
+- RFNet definitely preserved a 2002 Christmas-party category;
+- later participants identify the first RFNet X-Mas party as 2002.
+
+What remains unknown:
+
+- whether CyberSoldier hosted it;
+- photographed it;
+- packaged one image set;
+- or documented a separate holiday gathering.
+
+Status:
+
+> **same 2002 party cluster: plausible; CyberSoldier role U.**
+
+### Why this method matters
+
+It shows that file recovery does not always need to begin with a numeric media ID.
+
+A valid alternate route is:
+
+`mystery file title`
+
+→ `restored gallery category`
+
+→ `later participant identifies event/photo`
+
+→ `recover roster/venue/image-set structure`
+
+→ `test old file title against narrowed event cluster`
+
+This is still forensic inference and must never be collapsed into identity without a direct bridge.
+
+---
+
+## 10. FoundryMusic/shared software lineage
+
+Contemporary evidence places **FoundryMusicJeff / Jeff Shain** directly in RFNet's governing/technical layer.
+
+In October 2002 he says he runs RonFez.Net, calls it his board, and refers to software used by another O&A board as **“my board software.”**
+
+Separately, historical FoundryMusic links use the same broader ColdFusion-style media-route family:
+
+`displaymedia.cfm/id/<number>`
+
+including section-prefixed variants under FoundryMusic.
+
+See:
+- `../community/12-rfnet-governance-foundrymusicjeff.md`
+
+### Current classification
+
+The evidence supports:
+
+> **shared or related Jeff-era software/code lineage: plausible and increasingly well-supported.**
+
+It does **not** support:
+
+> **RFNet and FoundryMusic shared one media database or one global numeric ID namespace.**
+
+A search for FoundryMusic records matching known RFNet old media IDs **2989, 3004 and 3018** produced no indexed matches.
+
+That negative result is not proof of separate databases, but it provides no positive evidence for shared IDs.
+
+Keep these as separate questions:
+
+- code lineage;
+- deployment architecture;
+- database identity;
+- numeric-ID namespace.
+
+---
+
+## 11. Common Crawl / archive-index route
+
+The next technically promising route remains URL-index enumeration rather than page-text search.
+
+Common Crawl documents a CDX-style URL index that can query captured URLs by pattern. Its older collections may have crawled RFNet pages or stale deep links that no longer surface in normal search.
 
 Relevant documentation:
 - https://index.commoncrawl.org/
@@ -290,42 +437,47 @@ Do not write `no Common Crawl captures exist` unless the index is actually queri
 
 ---
 
-## 9. Current unresolved artifact state after URL-reconstruction pass
+## 12. Current unresolved artifact state after the expanded reconstruction pass
 
 | Artifact | Direct item ID recovered? | Context progress |
 |---|---:|---|
 | Slumber Party Pics | No | none beyond title/popularity; current gallery item `SLEEPY_FEZ` is **not** evidence of a connection |
 | A Night at Double D's | No | none beyond title/popularity; venue type remains unknown |
-| The Group Photo | No | none beyond title/popularity |
-| RonFez.Net on WWF Smackdown! | No | candidate local SmackDown tapings can now be bounded, but no RFNet cross-match yet |
-| CyberSoldier Holiday Party Pics 2002 | No | title establishes 2002 + CyberSoldier handle only |
-| Moshin's Tattoo | No | Moshin independently appears in a late-2007 fan-compiled WNEW-era R&F character census; tattoo itself still unidentified |
+| The Group Photo | No | first 2002 RFNet Christmas party now supplies a specific three-group-photo candidate cluster; direct bridge absent |
+| RonFez.Net on WWF Smackdown! | No | candidate local SmackDown tapings bounded; no RFNet cross-match yet |
+| CyberSoldier Holiday Party Pics 2002 | No | first RFNet X-Mas party independently fixed to 2002; CyberSoldier's relationship to it unresolved |
+| Moshin's Tattoo | No | Moshin is identified in later discussion of the labeled 2002 first-party group image; tattoo itself still unidentified |
 
-### Moshin evidence caution
+### Moshin source correction
 
-A preserved deleted-Wikipedia article created in December 2007 lists **Moshin** under the `WNEW Era` portion of a Ron & Fez character/fan census.
+A preserved deleted-Wikipedia fan census created in December 2007 does list **Moshin**, but an earlier research pass incorrectly described the name as appearing in a discrete `WNEW Era` section.
+
+The surviving page actually places Moshin in its broader:
+
+> **`Current Era: XM, WFNY-FM, and messageboard posters`**
+
+list.
 
 Source:
 - https://wikibin.org/articles/list-of-ron-and-fez-show-characters.html
 
-This is useful as **archival fan documentation**, but the page was deleted specifically for lacking reliable sourcing/notability. Treat it as low-grade evidence of community memory, not as an independent authoritative biography.
+The page was deleted because it was unreferenced and failed notability standards, so it remains low-grade fan documentation regardless.
 
-It supports:
+### What the corrected source supports
 
-> Moshin was remembered as an early/WNEW-era R&F figure by 2007.
+Only:
 
-It does **not** establish:
+> **Moshin was a sufficiently recognized R&F/message-board figure to be included in a fan-compiled 2007 cast/civilian census.**
 
-- Moshin's real identity;
-- the tattoo design;
-- whether the tattoo was permanent;
-- whether it was R&F-branded;
-- the tattoo date;
-- an event connection.
+It does **not** date his entry into the community.
+
+The stronger early anchor is now the **2002 first-RFNet-Christmas-party group-image discussion**, where old community members identify Moshin among the people visible.
+
+That later identification still needs the labeled image itself for direct verification, but it is more specific than the 2007 fan census.
 
 ---
 
-## 10. SmackDown candidate-date method
+## 13. SmackDown candidate-date method
 
 The unresolved `RonFez.Net on WWF Smackdown!` artifact should be attacked from the wrestling side as well as the RFNet side.
 
@@ -355,28 +507,36 @@ Do not select a candidate merely because it is geographically or chronologically
 
 ---
 
-## 11. Recovery workflow from here
+## 14. Recovery workflow from here
 
-1. **Build an external deep-link table** by searching for `displaymedia.cfm/id/` references across surviving forums/blogs.
-2. **Establish an old-ID/new-ID crosswalk** using one known 2007 item if possible.
-3. **Run Common Crawl CDX enumeration externally** against old RFNet URL patterns.
-4. **Enumerate restored direct-item pages** once a tool can request arbitrary numeric IDs safely.
-5. **Mine gallery metadata** around known early categories/images, separating migration dates from event dates.
-6. **Cross-match numeric anchors against dated audio/thread references.**
-7. Update each unresolved artifact only when a new source actually narrows identity/date/people/content.
+1. **Recover the 2023 first-RFNet-X-Mas-party shared image** and the two other remembered group shots.
+2. **Test those photographs directly against `The Group Photo`.**
+3. **Recover `CyberSoldier Holiday Party Pics 2002`** and compare it to the restored Christmas Party 2002 gallery cluster.
+4. **Build an external deep-link table** by searching for `displaymedia.cfm/id/` references across surviving forums/blogs.
+5. **Establish an old-ID/new-ID crosswalk** using one known old item if possible.
+6. **Run Common Crawl CDX enumeration externally** against old RFNet URL patterns when technically available.
+7. **Enumerate restored direct-item pages** once a tool can request arbitrary numeric IDs safely.
+8. **Mine gallery metadata** around known early categories/images, separating migration dates from event dates.
+9. **Cross-match numeric anchors against dated audio/thread references.**
+10. Update each unresolved artifact only when a new source actually narrows identity/date/people/content.
 
 ---
 
 ## Core conclusion
 
-The missing early RFNet history is not currently blocked by a lack of clues. It is blocked by a **broken index**.
+The missing early RFNet history is not currently blocked by a total lack of evidence. It is blocked by a **broken index**.
 
-We know that:
+We now know that:
 
 - old media records had numeric deep links;
 - external sites copied those links;
 - the restored site again exposes numeric file IDs;
+- the plain-text forum archive can preserve original contextual threads;
 - the restored gallery preserves migrated historical material;
-- ordinary title search mostly exposes a global popularity widget rather than individual records.
+- participant memory can sometimes reconnect migrated images to specific events;
+- ordinary title search mostly exposes a global popularity widget rather than individual records;
+- RFNet likely belonged to a related Jeff-era software ecosystem with FoundryMusic, without evidence yet for a shared database.
 
-The most productive next move is therefore to reconstruct the archive's **address system** first. Once IDs and migrated pages can be mapped, the six mysterious top-download artifacts can be attacked as records instead of as phrases.
+Most importantly, the 2002 Christmas-party reconstruction shows how to work around the broken index: rebuild the **people/event/photo cluster** first, then use it to attack the orphaned media title.
+
+That strategy has now made `The Group Photo` and `CyberSoldier Holiday Party Pics 2002` substantially less opaque without pretending either mystery is solved.
