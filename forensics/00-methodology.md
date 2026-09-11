@@ -210,6 +210,49 @@ Every forensic case should eventually include:
 
 This helps prevent later interpretations from being projected backward.
 
+## Civilian privacy and deanonymization rule
+
+The project is intentionally exhaustive, but **“no detail too small” does not mean using modern data-broker tools to expose private identities**.
+
+Many R&F community members participated publicly under handles. Search engines can now surface reverse-email, reverse-phone, people-search, address-history, and other broker pages that were not part of the person's public R&F participation.
+
+### Do not use those sources to deanonymize a fan.
+
+A civilian's real name may be attached to a handle when at least one of the following is true:
+
+- the person publicly self-identifies the connection;
+- original RonFez.net/Paltalk/show material publicly identifies them;
+- a reputable published source identifies the connection in a historically relevant context;
+- the person later participates publicly under both identities;
+- multiple strong non-invasive public sources corroborate the identity.
+
+Do **not** publish:
+
+- private home addresses;
+- personal phone numbers;
+- private email addresses;
+- relatives found only through people-search services;
+- data-broker identity matches;
+- sensitive personal information unrelated to the show/history.
+
+### Handle-only is a valid historical identity
+
+If a person is known to the R&F world only as:
+
+- Msteels;
+- Ozzie;
+- Hottub;
+- Sheepy;
+- or another handle,
+
+then the handle remains the archive identity until the person or a reliable historical source establishes more.
+
+This rule protects both accuracy and privacy: data-broker matches are often wrong, and even correct private matches are unnecessary to explain the radio/community history.
+
+### Public notoriety does not erase the rule
+
+When a civilian later becomes a public figure, as with **Lenny McNab / ChuckWagonCook**, the identity may be documented because published reporting and matching public material establish it. That does not justify importing unrelated private data about the person or family.
+
 ## Correction policy
 
 Corrections should be explicit.
@@ -244,6 +287,8 @@ This project's user explicitly wants maximal granularity. Therefore evidence fil
 - small contradictions across sources.
 
 The purpose is not brevity. The purpose is **recoverability**.
+
+The civilian-privacy rule above is the boundary: exhaustive history should preserve the public R&F world, not reconstruct unrelated private lives from modern surveillance-style data sources.
 
 ## Standard case-file template
 
