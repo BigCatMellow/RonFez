@@ -7,6 +7,7 @@
 - [The Secondary Universe](The-Secondary-Universe.md)
 - [Live Events](Live-Events.md)
 - [Comedy, Bits, and Formats](Comedy-Bits-and-Formats.md)
+- [Fez Whatley — The Nature Boy](Nature-Boy.md)
 - [Music and Sonic Identity](Music-and-Sonic-Identity.md)
 - [Work, Shoot, and What We Know](Work-Shoot-and-What-We-Know.md)
 - [Archives, Sources, and Evidence](Archives-Sources-and-Evidence.md)
