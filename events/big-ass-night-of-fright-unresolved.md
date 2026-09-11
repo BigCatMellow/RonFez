@@ -2,7 +2,9 @@
 
 ## Classification
 
-**WNEW-era/early-community Halloween event — directly evidenced gallery category; exact date, venue and program currently unresolved**
+**Early-community Halloween event — directly evidenced gallery category; exact date, venue and station era currently unresolved**
+
+The previous top-line classification called this a `WNEW-era` event. That was too strong. A specific retrospective memory places it around Halloween 2003; if that memory proves correct, the event would fall after the WNEW run and into the WJFK period. Until the date is independently recovered, the station era should remain open.
 
 ## Direct evidence
 
@@ -13,7 +15,7 @@ The surviving RonFez.net Photo Gallery contains a category breadcrumb:
 A surviving image page from that category:
 - https://www.ronfez.net/gallery/showphoto.php/photo/392/ppuser/35294
 
-The page is now dated May 17, 2007 in the restored gallery, but that date is plainly the restoration/upload metadata and cannot represent the historical event date if later fan recollections correctly place the event in the WNEW-era Halloween period.
+The current page attributes the image to **mikeyboy** and displays a date of May 17, 2007. That date is useful as restored-gallery metadata, but it is not safe to treat it as the historical event date. The surrounding archive contains migrated material whose filenames/descriptions point to earlier events and photographers.
 
 This is an excellent example of why gallery metadata must be separated from **event chronology**.
 
@@ -34,22 +36,56 @@ Current convention:
 - **archival category title:** singular `Fright`
 - **later fan shorthand:** often plural `Frights`
 
-## Later fan memory
+## Specific retrospective memory — 2019
 
-A 2024 discussion of historical R&F events includes **Big Ass Night of Frights** as an event someone would revisit.
+A May 7, 2019 Reddit discussion centered on **Big Ass Night of Fights 2** contains a useful first-person-style recollection from a commenter who says they missed Fight Night II but attended the **Big Ass Night of Frights** on Halloween, adding `(2003?)` and naming the **Hard Rock**.
 
-Other later memories place a Halloween R&F event around **2003** and associate it with the Hard Rock, but these details remain E-level and should not be treated as established until a contemporary event page, ticket, or show tape is found.
+Source:
+- https://www.reddit.com/r/ronandfez/comments/blpgyv
 
-Source lead:
+### What this contributes
+
+The recollection is more useful than a generic later list because it supplies three linked claims:
+
+1. the writer distinguishes Night of Fright(s) from **Big ASS Night of Fights II**;
+2. the event was associated in memory with **Halloween**;
+3. the writer remembers **Hard Rock** and tentatively **2003**.
+
+### Why it remains low-grade
+
+The writer explicitly signals uncertainty about the year with `(2003?)`, and the comment was written roughly sixteen years after the supposed event.
+
+Therefore:
+
+- event distinction from Fight Night II — useful retrospective evidence;
+- Halloween association — consistent with the archival title and strengthened by participant-style memory;
+- Hard Rock venue — **E-level testimony, not established fact**;
+- 2003 year — **E/U**, explicitly uncertain in the source.
+
+A separate 2024 discussion of historical R&F events also remembers **Big Ass Night of Frights** as an event worth revisiting, but it does not by itself resolve the chronology.
+
+Additional source lead:
 - https://www.reddit.com/r/ronandfez/comments/1cdpnmt
+
+## Station-era consequence
+
+This is why `WNEW-era` should not be baked into the event label.
+
+The show had already left WNEW by early 2003. So:
+
+- if the remembered **Halloween 2003** date is correct, this would be a **WJFK-era** event;
+- if the event occurred on Halloween 2001 or 2002, it could instead belong to the WNEW period;
+- current direct evidence does not yet choose between those possibilities.
+
+The proper status is therefore **station era unresolved**.
 
 ## Why this event may matter
 
-If the event is indeed a Halloween-era WNEW/transition event, it may sit near several overlapping traditions:
+Once dated, the event may connect several overlapping traditions:
 
 - Big ASS branded live events;
 - costumes/character performance;
-- Hard Rock Cafe social events;
+- Hard Rock Cafe social events, **if that venue is confirmed**;
 - early RFNet physical meetups;
 - wrestling-style live spectacle.
 
@@ -66,9 +102,13 @@ Search for:
 - gallery adjacent image IDs around photo 392;
 - old RFNet event/download pages;
 - WNEW/WJFK tapes for late October 2001, 2002, 2003;
-- archived WNEW event calendars;
+- archived WNEW/WJFK event calendars;
 - Hard Rock Times Square calendars;
-- fan photos on Wayback/Wackbag.
+- fan photos on Wayback/Wackbag;
+- external posts preserving old `ronfez.net/displaymedia.cfm/id/...` links.
+
+See also:
+- `reference/10-rfnet-media-url-reconstruction.md`
 
 ## Questions
 
@@ -90,11 +130,13 @@ Search for:
 | Claim | Grade |
 |---|---|
 | RFNet gallery category `Big Ass Night of Fright` existed | A/D |
-| event was Halloween-themed | strongly implied by title; B/D |
-| exact 2003 date | E/U |
+| event was Halloween-themed | strongly implied by archival title; strengthened by E-level memory |
+| later listener remembers attending it | E |
+| exact 2003 date | E/U — source itself is uncertain |
 | Hard Rock venue | E/U |
+| event definitely belongs to WNEW era | **unsupported** |
 | later restored gallery date reflects event date | **False/unsafe inference** |
 
 ## Core interpretation
 
-The important result at this stage is not a fabricated neat history. It is that **Big ASS Night of Fright was a real enough R&F community event to have its own RFNet gallery category**, but the restoration process has detached the surviving images from reliable original chronology. The next task is to rebuild that chronology from external artifacts.
+The important result at this stage is not a fabricated neat history. It is that **Big ASS Night of Fright was a real enough R&F community event to have its own RFNet gallery category**, and a later apparent attendee separately remembered it as a Halloween/Hard Rock event while expressing uncertainty about 2003. The restoration process has detached the surviving images from reliable original chronology, so the next task is to rebuild that chronology from external artifacts rather than forcing the event into a station era prematurely.
