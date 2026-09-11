@@ -31,11 +31,48 @@ A 2015 Ron & Fez retrospective week explicitly included a Florida-era segment la
 Source:
 - https://theinterrobang.com/ron-and-fez-will-host-a-look-back-at-their-career-all-week/
 
-Later Florida listeners independently remember Fez doing Nature Boy during the Ron & Ron years, sometimes over intense/anthemic music.
+This is stronger than a vague later memory. It demonstrates that R&F's own retrospective archive contained a **Ron & Ron-era Nature Boy performance** involving Cincinnati Reds owner Marge Schott.
+
+Later Florida listeners independently remember Fez doing Nature Boy during the Ron & Ron years.
 
 Current classification:
 
 > Nature Boy **predates WNEW** and belongs to the Ron & Ron performance repertoire, but the exact debut date and first original tape remain unresolved.
+
+### Earliest dateable clue — the Marge Schott windows
+
+The retrospective title does not state the original broadcast date, so the historical news context has to be used only as a **bounding clue**, not as proof.
+
+Marge Schott generated two especially plausible Ron & Ron-era national-news windows:
+
+1. **late 1992–1993** — her racist remarks became a major national story in late 1992, followed by Major League Baseball discipline/suspension in February 1993;
+2. **May–June 1996** — a renewed controversy followed her comments about Adolf Hitler and led to another suspension/removal from day-to-day control.
+
+Sources:
+- https://www.washingtonpost.com/archive/opinions/1992/12/11/whats-fit-for-marge-schott/7fb5f74e-093d-4db2-96a0-bc5c333eaaed/
+- https://pryorcenter.uark.edu/projects/KATV/1-person-topic/Person-RYP-SHE.pdf
+- https://www.washingtonpost.com/archive/opinions/1996/05/08/why-is-marge-schott-in-baseball/a1f4d794-4a08-423f-9d25-91fb3a98cf16/
+- https://www.latimes.com/archives/la-xpm-1996-05-09-sp-2217-story.html
+
+Therefore the safest current statement is:
+
+> **The oldest specifically identifiable Nature Boy artifact is a Ron & Ron-era Marge Schott performance, most plausibly tied to either the 1992–93 or 1996 Schott controversy. We have not yet established which one, and we have not established that this was Nature Boy's debut.**
+
+Do not silently convert this into a 1992 or 1993 first-use date unless the original tape or an independent contemporary listing is recovered.
+
+### The bit appears to have been physically produced, not merely voiced
+
+A 2023 retrospective by a Florida radio host who credits Ron & Ron with inspiring his career remembers the anticipation of the studio **filling with smoke** before Fez did the Nature Boy bit.
+
+Source:
+- https://realradio.iheart.com/featured/as-heard-on-the-monsters/content/2023-04-17-ron-bennington-a-heartfelt-tribute-from-a-grateful-talk-show-host/
+
+Evidence grade: **C — later firsthand industry/listener recollection.**
+
+This detail is small but historically useful. It suggests that at least some Florida Nature Boy appearances were staged as a **miniature theatrical entrance/performance event**, with room atmosphere and anticipation, not simply Fez suddenly doing a Ric Flair voice at the desk.
+
+Dedicated preservation packet:
+- `../preservation/source-packs/nature-boy.md`
 
 ---
 
@@ -82,7 +119,7 @@ Evidence boundary:
 
 ## November 10, 2006 — “Fezbird” lead
 
-Later listeners recovered a famous XM drinking-show Nature Boy performance delivered over **Lynyrd's `Free Bird`**, commonly remembered as `Fezbird`.
+Later listeners recovered a famous XM drinking-show Nature Boy performance delivered over **Lynyrd Skynyrd's `Free Bird`**, commonly remembered as `Fezbird`.
 
 A 2023 date-recovery discussion identifies the underlying show as:
 
@@ -161,7 +198,8 @@ Recurring structural features include:
 - rhythmic call-and-response with Ron;
 - wrestling-style self-mythology;
 - adaptation of current show material into promo language;
-- musical beds/intros in some versions.
+- musical beds/intros in some versions;
+- at least one remembered Florida presentation involving smoke/entrance atmosphere.
 
 The best classification is therefore:
 
@@ -218,8 +256,18 @@ Nature Boy is the clearest example of Fez directly using **promo language as com
 - Dailymotion upload: `Fez Whatley as 'The Nature Boy' Ric Flair`
   - https://www.dailymotion.com/video/x3474w5
 
+### Stable identifiers to preserve even if pages disappear
+
+- Dailymotion: **`x3474w5`**
+- RFNet File Library category containing 2009–10 Nature Boy material: **category `id=61`**
+- full first-XM broadcast date: **2005-09-12**
+- `Fezbird` date lead: **2006-11-10**
+- Character Showdown Finale: **2009-12-22**
+- Nature Brothers: **2010-01-08**
+
 ### Still needs exact indexing
 
+- original Ron & Ron `Nature Boy: Marge Schott` tape and its year;
 - earliest surviving Ron & Ron Nature Boy;
 - earliest WNEW Nature Boy;
 - first XM opener Nature Boy timestamp;
@@ -233,15 +281,18 @@ Nature Boy is the clearest example of Fez directly using **promo language as com
 ## Open questions
 
 1. Exact first performance/date.
-2. Who first suggested Fez do Ric Flair?
-3. Which original Flair promos most influenced Fez's recurring language?
-4. Exact music beds by era.
-5. Whether Nature Boy was formally used as a standard show opener and for what date range.
-6. Full history of the remembered `Ric Flair intro / Satellite of Love exit` pairing.
-7. Complete list of drunk Nature Boy performances.
-8. Original context of the Marge Schott Florida performance.
-9. Whether Ric Flair ever heard or publicly reacted to Fez's version.
-10. What Ron said about Nature Boy during/after Fez memorial programming.
+2. Was the Marge Schott clip from the 1992–93 controversy or the 1996 controversy?
+3. Was the Marge Schott performance already an established Nature Boy format, or could it be an origin/developmental appearance?
+4. Who first suggested Fez do Ric Flair?
+5. Which original Flair promos most influenced Fez's recurring language?
+6. Exact music beds by era.
+7. Exact role of smoke/entrance production in Florida versions.
+8. Whether Nature Boy was formally used as a standard show opener and for what date range.
+9. Full history of the remembered `Ric Flair intro / Satellite of Love exit` pairing.
+10. Complete list of drunk Nature Boy performances.
+11. Whether Ric Flair ever heard or publicly reacted to Fez's version.
+12. What Ron said about Nature Boy during/after Fez memorial programming.
+13. Can the 2015 retrospective audio itself be recovered/timecoded, rather than relying on the published segment list?
 
 ---
 
@@ -250,17 +301,33 @@ Nature Boy is the clearest example of Fez directly using **promo language as com
 | Claim | Grade |
 |---|---|
 | Nature Boy was a recurring major Fez performance | A/D/B combined |
-| Florida/Ron & Ron ancestry | B/C; exact origin U |
+| Florida/Ron & Ron ancestry | **B/C; now strongly anchored by 2015 retrospective segment title** |
+| `Nature Boy: Marge Schott` is a Ron & Ron artifact | B/A-adjacent retrospective-program metadata |
+| Marge Schott clip dates specifically to 1992–93 | **U — plausible window, not proven** |
+| Marge Schott clip dates specifically to 1996 | **U — plausible window, not proven** |
+| Florida production sometimes used smoke/entrance atmosphere | C — later radio-industry listener recollection |
 | WNEW cultural prominence | D + E/C corroboration |
 | first XM show date 09/12/2005 | A/B |
 | Nature Boy in first XM intro | C/E pending direct timecode |
 | Nature Boy in 12/22/09 Character Showdown Finale | A/D |
 | `The Nature Brothers` on 01/08/10 | A/D |
 | `Fezbird` = 11/10/06 | C/E pending direct timecode |
-| exact debut date | U |
+| exact debut date | **U** |
+
+## Preservation
+
+The evidence chain for this character is now duplicated in a dedicated preservation pack:
+
+- `../preservation/source-packs/nature-boy.md`
+
+That pack records each important source, what it establishes, stable identifiers, alternate recovery targets, and the uncertainty around the oldest dateable clue. The repository-wide preservation workflow also inventories external URLs, checks their live status, records hashes for eligible text pages, checks Wayback availability, and requests bounded new snapshots.
+
+---
 
 ## Core conclusion
 
 **Nature Boy is one of Fez Whatley's signature radio performances and one of the strongest surviving demonstrations of the performer he could be at full speed.**
+
+We can now locate its ancestry firmly inside **Ron & Ron** and narrow its oldest specifically identifiable surviving artifact to the Marge Schott news cycles of **1992–93 or 1996**, but the first-ever performance remains unresolved.
 
 It should remain visible anywhere the archive explains Fez's career arc, not hidden as a single bullet in a late character contest.
