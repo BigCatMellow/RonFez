@@ -46,7 +46,8 @@ This directory is for **individual event case files** with exact dates, venue, p
 - [`2011-12-ronnie-spector-christmas-concert.md`](2011-12-ronnie-spector-christmas-concert.md) — private SiriusXM concert preserved Ronnie Spector's long-running NYC Christmas tradition after venue trouble
 
 ### Unresolved artifacts/events
-- [`big-ass-night-of-fright-unresolved.md`](big-ass-night-of-fright-unresolved.md) — RFNet gallery category proves event existed; original chronology unresolved
+- [`christmas-party-2002-unresolved.md`](christmas-party-2002-unresolved.md) — restored `Events » Christmas Party 2002` gallery category gives a concrete candidate crosswalk for the still-unresolved `CyberSoldier Holiday Party Pics 2002` file; relationship not yet proven
+- [`big-ass-night-of-fright-unresolved.md`](big-ass-night-of-fright-unresolved.md) — RFNet gallery category proves event existed; original chronology and station era unresolved
 - [`unresolved-early-rfnet-artifacts.md`](unresolved-early-rfnet-artifacts.md) — Slumber Party Pics, A Night at Double D's, RFNet on WWF SmackDown!, CyberSoldier Holiday Party 2002, Moshin's Tattoo, The Group Photo and other high-download artifacts
 
 ## Events documented elsewhere but still queued for dedicated files
@@ -77,6 +78,7 @@ Many restored RonFez.net gallery pages show **upload/restoration dates that are 
 - [`../reference/08-physical-community-source-index.md`](../reference/08-physical-community-source-index.md) — tickets, galleries, WJFK map, Hurricane Isabel, Hideout, Monty Love and other physical-world evidence
 - [`../reference/08-living-oral-history-watch.md`](../reference/08-living-oral-history-watch.md) — modern participant testimony and rules for using it
 - [`../reference/09-governance-staff-and-simulcast-source-index.md`](../reference/09-governance-staff-and-simulcast-source-index.md) — FoundryMusicJeff, Tuddle, Hannah, softball, holiday parties and simulcast provenance
+- [`../reference/10-rfnet-media-url-reconstruction.md`](../reference/10-rfnet-media-url-reconstruction.md) — old/new numeric media URLs, deep-link mining, gallery provenance rules and archive-index recovery plan
 
 ## Governing rule
 
