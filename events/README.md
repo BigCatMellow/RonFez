@@ -1,37 +1,46 @@
 # Live Events — forensic case index
 
-The thematic event overview remains in [`../themes/02-live-events-and-big-ass-culture.md`](../themes/02-live-events-and-big-ass-culture.md).
+The thematic event overview remains in [`../themes/02-events-and-live-culture.md`](../themes/02-events-and-live-culture.md).
 
 This directory is for **individual event case files** with exact dates, venue, participants, timeline, surviving media, work/shoot issues, fan-community involvement, and unresolved details.
 
 ## Current event case files
 
-- [`2002-05-17-big-ass-night-of-fights-ii.md`](2002-05-17-big-ass-night-of-fights-ii.md) — unusually complete surviving recording/timestamp map; major early civilian-cast census
-- [`2007-02-23-big-ass-bash.md`](2007-02-23-big-ass-bash.md) — Hard Rock Cafe, Midnight Rider/East Side Dave, Tazz/Danny Doring, ticket controversy, huge XM-era crossover event
+- [`2002-02-22-big-ass-night-of-fights-i.md`](2002-02-22-big-ass-night-of-fights-i.md) — first Big ASS fight event; Al Dukes/Rory era; real employment exit wrapped in wrestling-style narrative
+- [`artifacts/2002-02-22-night-of-fights-ticket.md`](artifacts/2002-02-22-night-of-fights-ticket.md) — surviving physical ticket: Downtown Bar & Club, 190 Main Street, Farmingdale, 5 PM doors, 21+, admission not guaranteed
+- [`2002-05-17-big-ass-night-of-fights-ii.md`](2002-05-17-big-ass-night-of-fights-ii.md) — unusually complete surviving recording/timestamp map; French Bread Pizza, Hard Rock Johnny, Billy's Diggstown challenge, GVac vs Matty Fridays for RFNet championship, Earl vs Al, capacity problems
+- [`2004-st-pats-spat.md`](2004-st-pats-spat.md) — Fairfax civilian fight card: Spoon/Tommy Bateman, El Jefe/J-Dubbs, Mikey D/Wonderboy, Monster Toss, Crazy Jen egg challenge; primary tape still needed
+- [`2006-04-01-mcfaddens-bar-night.md`](2006-04-01-mcfaddens-bar-night.md) — early-XM New York bar night directly named/datted by RFNet gallery category
+- [`2007-02-23-big-ass-bash.md`](2007-02-23-big-ass-bash.md) — Hard Rock Cafe Times Square, Midnight Rider/East Side Dave, Tazz/Danny Doring, Earl ticket controversy, huge XM-era crossover event
+- [`2007-red-rock-west-bar-night.md`](2007-red-rock-west-bar-night.md) — social census including Ron, Fez, Faith, Snoogans, Mikeyboy, Bobo, Kevin Ogre and Smiler Grogan; exact event date still unresolved
+- [`2007-06-rock-a-hula-luau.md`](2007-06-rock-a-hula-luau.md) — June 11 XM aftermath documents Lilly problem, Earl mistake, Dave/Pitzy/Jonathan conflict; Sheepy/Frenchy gallery layer and pig-roast lead
+- [`2007-don-stugots-experience-bbq.md`](2007-don-stugots-experience-bbq.md) — fan-community event with its own RFNet category and Hottub photo set; exact event date/location still unresolved
+- [`2007-12-winter-carnival-party.md`](2007-12-winter-carnival-party.md) — Christmas Party 2007 photographic census; Fez literally captioned “holds court”; Tenbatsuzen, Leticia, Lilly, Flea, CT & Jivin, Don Stugots, Green Lantern and others
+- [`big-ass-night-of-fright-unresolved.md`](big-ass-night-of-fright-unresolved.md) — surviving RFNet gallery category proves event existed, but restoration dates cannot be treated as original chronology
+- [`unresolved-early-rfnet-artifacts.md`](unresolved-early-rfnet-artifacts.md) — Slumber Party Pics, A Night at Double D's, RFNet on WWF SmackDown!, CyberSoldier Holiday Party 2002, Moshin's Tattoo, The Group Photo and other high-download artifacts awaiting reconstruction
 
-## Events queued for dedicated files
+## Events documented elsewhere but still queued for dedicated files
 
-- first Big ASS Night of Fights — early 2002; Fourble has a standalone tape but exact date/event packet still needs confirmation
-- Friday Night Lights — social institution currently documented in `community/07-friday-night-lights-social-institution.md`
-- St. Pat's Spat
-- WJFK pool tournaments
-- WJFK poker tournament / Fire and Ice challenge
-- Battle of Local Unsigned Bands
+- Friday Night Lights — social institution currently documented in [`../community/07-friday-night-lights-social-institution.md`](../community/07-friday-night-lights-social-institution.md)
+- WJFK 2003 pool tournament
+- Caddyshack Movie Night (2003)
+- WJFK 2003 poker tournament / Fire and Ice challenge
+- Hard Rock Cafe New York Reunion (2003)
+- 2nd Annual Pool Tournament (2004)
+- Battle of the Local, Unsigned Bands (2004)
+- 2004/2005 Fez charity 5Ks
 - New York Forever bar crawls
-- New York Reunion
-- Red Rock West bar night
-- McFadden's bar night — 2006-04-01
+- BB King's XM kickoff/welcome-back party — 2005-09-09
 - Bergen County bar night
-- Dr. Dremo's DC bar night — 2007-06-09
-- Rock-a-hula Luau — 2007-06-10 gallery date
+- Dr. Dremo's DC bar night
 - Dave and Casey wedding — 2007-06-21
-- RonFez.net Christmas Party / Winter Carnival 2007
-- RF Softball — including 2007-08-18 photographic record and earlier games from member recollection
-- Don Stugots Experience BBQ — 2007-06-11 gallery date
+- RF Softball — including 2007 photographic record and much earlier member recollection
 - Mooch farewell party
+- Night of a Hundred Podcasts — later fan memory points to 2008; primary evidence needed
 - 2010 Tiger Woods Big ASS Simulcast
-- 2010 Academy Awards simulcast — archive says this was the second Oscars simulcast
+- Academy Awards simulcasts — surviving archive identifies 2010 as at least the second Oscars simulcast
 - Ronnie Spector SiriusXM Christmas performance — 2011
+- Fez fantasy-football owner's party at his Roosevelt Island apartment — later fan memory; primary show needed
 - Fez's 2018 surprise *Bennington* Thanksgiving appearance
 - FezCon — 2023-01-19
 
@@ -58,4 +67,14 @@ Each event file should eventually include:
 17. evidence grades;
 18. open questions.
 
-No event should be summarized as only “they did a live show” when the surviving material supports a full social map.
+## Archive-date warning
+
+Many restored RonFez.net gallery pages show **2007 upload/restoration dates for events that clearly occurred years earlier**. Therefore:
+
+> **Gallery date is not automatically event date.**
+
+Event chronology requires a second anchor such as a ticket, contemporary thread, broadcast, original file metadata, or independent event listing.
+
+## Governing rule
+
+No event should be summarized as only “they did a live show” when the surviving material supports a full social map. Equally, no missing detail should be invented merely to make the history tidy.
