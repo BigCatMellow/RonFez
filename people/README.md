@@ -32,10 +32,12 @@ The first-pass genealogy lives in [`../forensics/02-cast-genealogy.md`](../foren
 - [`community/j-dubs-justin-johnson.md`](community/j-dubs-justin-johnson.md) — WJFK R&F participant/producer → *The Hideout* co-host → multi-market radio programmer → 98 Rock Baltimore PD
 - [`community/cigar-sid-sidcada.md`](community/cigar-sid-sidcada.md) — Fairfax caller/studio regular, “Sugar Sugar” pool-event performance, recurring *Hideout* cast
 - [`community/monty-love-band.md`](community/monty-love-band.md) — real Staten Island pop-punk/hardcore band/Jay Miller; independent 2003 WFMU documentation and R&F event connection
+- [`community/don-the-hypnotist-don-friedman.md`](community/don-the-hypnotist-don-friedman.md) — real professional comedy hypnotist; WJFK/XM recurring guest, Fez relaxation relationship, active 2025–26 oral-history source
 
 ## Staff biographies started
 
 - [`staff/al-dukes.md`](staff/al-dukes.md) — March 5, 2001 WNEW start; major foil; Gay Randy/“THIS IS NOT A BIT”; Night of Fights exit; later oral history
+- [`staff/tasteless-ginny-ginny-sanchez.md`](staff/tasteless-ginny-ginny-sanchez.md) — prank caller/guest → early *Ron & Fez Dot Com* producer; modern source for June 2, 2000 cassette/photos and WNEW memories
 
 ## Biography template
 
@@ -57,6 +59,7 @@ Each person file should eventually include legal/real name when publicly documen
 - Joe Poo
 - Tuddle
 - Tommy Bateman
+- Hanna Han
 - other WNEW producers/screeners
 
 ## Fairfax / WJFK branch
@@ -65,6 +68,7 @@ Profiles started:
 - Perrynoid
 - Mikeyboy
 - Crazy Jen
+- Don the Hypnotist / Don Friedman
 - Mike the Teacher
 - Bobo
 - J-Dubs / Justin Johnson
@@ -74,7 +78,6 @@ Profiles started:
 Still queued:
 - Cherrynoid
 - David Lee Kinison / Elfish
-- Don the Hypnotist
 - El Jefe
 - Wonderboy
 - intern Monster
@@ -181,6 +184,10 @@ Known examples discussed so far:
 The point is not merely to answer **“who was this?”** For every person, ask:
 
 > **How did this human being enter the R&F system, what relationships made them useful, who shaped their radio identity, and how much of the identity was consciously performed?**
+
+### Living oral history
+
+Modern participant testimony is tracked separately in [`../reference/08-living-oral-history-watch.md`](../reference/08-living-oral-history-watch.md). Firsthand recollection is valuable, but exact dates and backstage claims should be checked against contemporary records whenever possible.
 
 ### Detail policy
 
