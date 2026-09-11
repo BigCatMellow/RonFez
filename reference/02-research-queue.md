@@ -23,6 +23,27 @@ The following queue collects every major branch raised in the originating conver
 - forum migrations and shutdown/revival history;
 - exact archive-restoration history in 2023.
 
+### RFNet historical media-index reconstruction — current technical gate
+
+See `reference/10-rfnet-media-url-reconstruction.md` and `events/unresolved-early-rfnet-artifacts.md`.
+
+The next archive-preservation work is not another exact-title search. It is reconstruction of RFNet's historical address/index system.
+
+- harvest external copies of old `ronfez.net/displaymedia.cfm/id/<number>` links;
+- build an `old numeric ID -> external description -> source date` table;
+- determine whether old `displaymedia.cfm` IDs survived unchanged in the restored `downloads.php?do=file&id=` library;
+- find one exact old-ID/new-ID title match as the first crosswalk test;
+- enumerate Common Crawl/Wayback URL indexes for historical RFNet media paths when an environment permits arbitrary CDX queries;
+- enumerate restored numeric file pages where technically possible;
+- preserve `Date Added` separately from the date of the underlying event/broadcast;
+- mine restored gallery breadcrumbs, filenames, descriptions and comments for original provenance;
+- preserve restoration uploader/curator separately from original photographer/source;
+- never use a migrated 2007 gallery upload date as an event date without independent support;
+- cross-match recovered IDs against audio dates, event calendars and forum threads;
+- maintain explicit negative-result checkpoints so future passes do not repeat exhausted title queries.
+
+Known anchors currently include restored file IDs **1986** (July 2001 archive entry), **2038** (May 2002 archive entry) and **2243** (July 2004 archive entry for content titled March 2002), plus historical `displaymedia.cfm` IDs **2989**, **3004** and **3018** preserved by a January 2007 external forum thread.
+
 ### Paltalk reconstruction
 
 - exact creation date of Big ASS Room;
@@ -434,7 +455,9 @@ Inventory every major surviving archive:
 - Bennington retrospectives;
 - FezCon interviews;
 - old WNEW/WJFK fan pages;
-- dead links recoverable through web archives.
+- dead links recoverable through web archives;
+- historical URL indexes / CDX records;
+- third-party pages preserving dead RFNet deep links.
 
 ## Working rule
 
