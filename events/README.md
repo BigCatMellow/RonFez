@@ -11,6 +11,7 @@ This directory is for **individual event case files** with exact dates, venue, p
 - [`2002-02-22-big-ass-night-of-fights-i.md`](2002-02-22-big-ass-night-of-fights-i.md) — first Big ASS fight event; Al Dukes/Rory era; real employment exit wrapped in wrestling-style narrative
 - [`artifacts/2002-02-22-night-of-fights-ticket.md`](artifacts/2002-02-22-night-of-fights-ticket.md) — surviving physical ticket: Downtown Bar & Club, 190 Main Street, Farmingdale, 5 PM doors, 21+, admission not guaranteed
 - [`2002-05-17-big-ass-night-of-fights-ii.md`](2002-05-17-big-ass-night-of-fights-ii.md) — French Bread Pizza, Hard Rock Johnny, Billy's Diggstown challenge, GVac vs Matty Fridays for RFNet championship, Earl vs Al, capacity problems
+- [`2002-06-01-celebrity-softball.md`](2002-06-01-celebrity-softball.md) — later archive discussion pins a WNEW-era celebrity softball game to June 1, 2002 and remembers Tracy Morgan; primary tape still needed
 - [`2002-07-15-16-tuddle-concrete-coffin.md`](2002-07-15-16-tuddle-concrete-coffin.md) — former producer Tuddle in Monsters in the Midday's 48-hour coffin/concrete charity stunt; R&F repeatedly call him during it
 
 ### WJFK / Fairfax
@@ -52,7 +53,6 @@ This directory is for **individual event case files** with exact dates, venue, p
 
 - Friday Night Lights — documented in [`../community/07-friday-night-lights-social-institution.md`](../community/07-friday-night-lights-social-institution.md)
 - first Academy Awards simulcast — prior edition directly implied by 2010 RFNet wording; Feb. 22, 2009 is strong candidate but tape needs indexing
-- June 1, 2002 WNEW celebrity softball — archive pointer exists; keep separate from RF Softball until verified
 - Fez's 2018 surprise *Bennington* Thanksgiving appearance
 - FezCon — 2023-01-19
 
