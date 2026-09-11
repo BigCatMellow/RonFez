@@ -29,6 +29,9 @@ The first-pass genealogy lives in [`../forensics/02-cast-genealogy.md`](../foren
 - [`community/crazed.md`](community/crazed.md) — shared O&A/R&F civilian personality, station/show liners, raps/movie reviews, physical-community presence
 - [`community/bobo.md`](community/bobo.md) — WJFK fan-musician (Dan Rather song), Red Rock West attendee, later Big ASS Bash/ticket-story continuity
 - [`community/snoogans.md`](community/snoogans.md) — 36k-post RFNet identity, Red Rock West attendee, long-term general-community user
+- [`community/j-dubs-justin-johnson.md`](community/j-dubs-justin-johnson.md) — WJFK R&F participant/producer → *The Hideout* co-host → multi-market radio programmer → 98 Rock Baltimore PD
+- [`community/cigar-sid-sidcada.md`](community/cigar-sid-sidcada.md) — Fairfax caller/studio regular, “Sugar Sugar” pool-event performance, recurring *Hideout* cast
+- [`community/monty-love-band.md`](community/monty-love-band.md) — real Staten Island pop-punk/hardcore band/Jay Miller; independent 2003 WFMU documentation and R&F event connection
 
 ## Staff biographies started
 
@@ -56,22 +59,32 @@ Each person file should eventually include legal/real name when publicly documen
 - Tommy Bateman
 - other WNEW producers/screeners
 
-## Fairfax / WJFK branch — queued
+## Fairfax / WJFK branch
 
+Profiles started:
+- Perrynoid
+- Mikeyboy
+- Crazy Jen
+- Mike the Teacher
+- Bobo
+- J-Dubs / Justin Johnson
+- Cigar Sid / Sidcada
+- Monty Love band/Jay Miller
+
+Still queued:
 - Cherrynoid
 - David Lee Kinison / Elfish
-- Cigar Sid / Sidcada
 - Don the Hypnotist
-- J-Dubbs
 - El Jefe
 - Wonderboy
 - intern Monster
 - Tender
-- BoBo — profile started as `bobo.md`; verify capitalization/aliases
-- Mike the Teacher — profile started
 - Silera
-- Monty Love
-- Mike/other Hideout crossover figures
+- Monty Love's individual band members where sourceable
+- Tommy Bateman's R&F/Hideout bridge
+- Chunks Carolla
+- Matt Albert
+- other Hideout crossover figures
 
 ## XM / SiriusXM core — queued
 
@@ -105,14 +118,12 @@ Each person file should eventually include legal/real name when publicly documen
 ## Community figures still queued
 
 - Mafia Life Chris
-- Hard Rock Johnny — profile started
 - Mikey D
 - Baby Girl
 - G-Baby
 - Silera
 - GAZ
 - Reilly
-- Crazed — profile started
 - Friday — kept separate from Matty Fridays until sourced
 - Fallon
 - S0S
