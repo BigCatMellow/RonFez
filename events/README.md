@@ -6,6 +6,7 @@ This directory is for **individual event case files** with exact dates, venue, p
 
 ## Current event case files
 
+- [`2001-new-york-forever-bar-crawls.md`](2001-new-york-forever-bar-crawls.md) — post-9/11 lower-Manhattan support gatherings; Halloween crawl history plus direct March 2002 Slaughtered Lamb gallery trace
 - [`2002-02-22-big-ass-night-of-fights-i.md`](2002-02-22-big-ass-night-of-fights-i.md) — first Big ASS fight event; Al Dukes/Rory era; real employment exit wrapped in wrestling-style narrative
 - [`artifacts/2002-02-22-night-of-fights-ticket.md`](artifacts/2002-02-22-night-of-fights-ticket.md) — surviving physical ticket: Downtown Bar & Club, 190 Main Street, Farmingdale, 5 PM doors, 21+, admission not guaranteed
 - [`2002-05-17-big-ass-night-of-fights-ii.md`](2002-05-17-big-ass-night-of-fights-ii.md) — unusually complete surviving recording/timestamp map; French Bread Pizza, Hard Rock Johnny, Billy's Diggstown challenge, GVac vs Matty Fridays for RFNet championship, Earl vs Al, capacity problems
@@ -15,11 +16,20 @@ This directory is for **individual event case files** with exact dates, venue, p
 - [`2003-hard-rock-new-york-reunion.md`](2003-hard-rock-new-york-reunion.md) — Crankcase gig, WNEW alumni, surprise Anthony Cumia/O&A chant and reported WJFK interruption; primary tape still needed
 - [`2003-09-18-hurricane-isabel-community-broadcast.md`](2003-09-18-hurricane-isabel-community-broadcast.md) — unusually strong government-sourced account of R&F converting the entire night into local emergency information, followed by special El Jefe's Hideout coverage
 - [`2004-st-pats-spat.md`](2004-st-pats-spat.md) — Fairfax civilian fight card: Spoon/Tommy Bateman, El Jefe/J-Dubs, Mikey D/Wonderboy, Monster Toss, Crazy Jen egg challenge; primary tape still needed
+- [`2004-second-pool-tournament.md`](2004-second-pool-tournament.md) — billiards, Don the Hypnotist/Fez/Crazy Jen, football trivia and listener-jingle contest; Don's 2026 files strengthen the 2004 chronology
+- [`2004-battle-of-local-unsigned-bands.md`](2004-battle-of-local-unsigned-bands.md) — under-researched WJFK local-band showcase; lineup/date/venue/winner still open
+- [`2004-2005-fez-charity-5ks.md`](2004-2005-fez-charity-5ks.md) — historical record says Fez ran annual charity 5Ks with fans in both years; exact race/charity remains unidentified
+- [`2005-09-09-bb-kings-xm-kickoff.md`](2005-09-09-bb-kings-xm-kickoff.md) — Times Square XM kickoff/welcome-back gathering bridging WNEW/WJFK into the satellite era
 - [`2006-04-01-mcfaddens-bar-night.md`](2006-04-01-mcfaddens-bar-night.md) — early-XM New York bar night directly named/dated by RFNet gallery category
 - [`2007-02-23-big-ass-bash.md`](2007-02-23-big-ass-bash.md) — Hard Rock Cafe Times Square, Midnight Rider/East Side Dave, Tazz/Danny Doring, Earl ticket controversy, huge XM-era crossover event
+- [`2007-bergen-county-bar-night.md`](2007-bergen-county-bar-night.md) — RFNet-documented New Jersey regional gathering; Hottub uploader, exact event date/venue still open
 - [`2007-red-rock-west-bar-night.md`](2007-red-rock-west-bar-night.md) — social census including Ron, Fez, Faith, Snoogans, Mikeyboy, Bobo, Kevin Ogre and Smiler Grogan; exact event date still unresolved
+- [`2007-06-09-dr-dremos-dc-bar-night.md`](2007-06-09-dr-dremos-dc-bar-night.md) — directly dated RFNet DC Bar Night at Dr. Dremo's, Arlington; evidence of surviving Fairfax/DC regional community
 - [`2007-06-rock-a-hula-luau.md`](2007-06-rock-a-hula-luau.md) — June 11 XM aftermath documents Lilly problem, Earl mistake, Dave/Pitzy/Jonathan conflict; Sheepy/Frenchy gallery layer and pig-roast lead
 - [`2007-don-stugots-experience-bbq.md`](2007-don-stugots-experience-bbq.md) — fan-community event with its own RFNet category and Hottub photo set; exact event date/location still unresolved
+- [`2007-mooch-farewell-party.md`](2007-mooch-farewell-party.md) — Fallon photographs curated by Mikeyboy; staff-farewell/social crossover, exact reason/date still being reconstructed
+- [`2007-night-of-a-hundred-podcasts.md`](2007-night-of-a-hundred-podcasts.md) — Dave's 2026 oral history of Ron giving friends' podcasts actual SiriusXM weekend airtime; exact 2007 date still unresolved
+- [`2007-06-21-dave-casey-wedding.md`](2007-06-21-dave-casey-wedding.md) — Hard Rock Times Square wedding transformed from private plan into major R&F broadcast/social event; later Fez dinner-invite grievance
 - [`2007-12-winter-carnival-party.md`](2007-12-winter-carnival-party.md) — Christmas Party 2007 photographic census; Fez literally captioned “holds court”; Tenbatsuzen, Leticia, Lilly, Flea, CT & Jivin, Don Stugots, Green Lantern and others
 - [`big-ass-night-of-fright-unresolved.md`](big-ass-night-of-fright-unresolved.md) — surviving RFNet gallery category proves event existed, but restoration dates cannot be treated as original chronology
 - [`unresolved-early-rfnet-artifacts.md`](unresolved-early-rfnet-artifacts.md) — Slumber Party Pics, A Night at Double D's, RFNet on WWF SmackDown!, CyberSoldier Holiday Party 2002, Moshin's Tattoo, The Group Photo and other high-download artifacts awaiting reconstruction
@@ -27,30 +37,20 @@ This directory is for **individual event case files** with exact dates, venue, p
 ## Events documented elsewhere but still queued for dedicated files
 
 - Friday Night Lights — social institution currently documented in [`../community/07-friday-night-lights-social-institution.md`](../community/07-friday-night-lights-social-institution.md)
-- 2nd Annual Pool Tournament (2004)
-- Battle of the Local, Unsigned Bands (2004)
-- 2004/2005 Fez charity 5Ks
-- New York Forever bar crawls
-- 2001 Halloween Bar Crawl — Slaughtered Lamb / Karavas' Place lead
-- BB King's XM kickoff/welcome-back party — 2005-09-09
-- Bergen County bar night
-- Dr. Dremo's DC bar night
-- Dave and Casey wedding — **2007-06-21, Hard Rock Times Square** now directly anchored by RFNet gallery metadata
 - RF Softball — including 2007 photographic record and much earlier member recollection
-- Mooch farewell party
-- Night of a Hundred Podcasts — later fan memory points to 2008; primary evidence needed
-- 2010 Tiger Woods Big ASS Simulcast
 - Academy Awards simulcasts — surviving archive identifies 2010 as at least the second Oscars simulcast
+- 2010 Tiger Woods Big ASS Simulcast
 - Ronnie Spector SiriusXM Christmas performance — 2011
 - Fez fantasy-football owner's party at his Roosevelt Island apartment — later fan memory; primary show needed
 - Fez's 2018 surprise *Bennington* Thanksgiving appearance
 - FezCon — 2023-01-19
 
-## Related people/act files newly generated by event research
+## Related people/act files generated by event research
 
 - [`../people/community/j-dubs-justin-johnson.md`](../people/community/j-dubs-justin-johnson.md) — WJFK R&F figure → *The Hideout* co-host → later 98 Rock Baltimore program director
 - [`../people/community/cigar-sid-sidcada.md`](../people/community/cigar-sid-sidcada.md) — Fairfax regular / “Sugar Sugar” / Hideout cast
 - [`../people/community/monty-love-band.md`](../people/community/monty-love-band.md) — real Staten Island pop-punk/hardcore act documented independently by WFMU/local punk archives and remembered from R&F events
+- [`../people/community/don-the-hypnotist-don-friedman.md`](../people/community/don-the-hypnotist-don-friedman.md) — professional Virginia comedy hypnotist; 2004 WJFK chronology, Fez relationship, 2006 show and current first-person archive leads
 
 ## Case-file standard
 
@@ -83,9 +83,11 @@ Many restored RonFez.net gallery pages show **2007 upload/restoration dates for 
 
 Event chronology requires a second anchor such as a ticket, contemporary thread, broadcast, original file metadata, or independent event listing.
 
-## Source matrix
+## Source matrices
 
 See [`../reference/08-physical-community-source-index.md`](../reference/08-physical-community-source-index.md) for claim-level provenance covering physical tickets, RFNet galleries, the WJFK event-history synthesis, the federal Hurricane Isabel source, early cross-board culture, The Hideout, Monty Love and other current research leads.
+
+See [`../reference/08-living-oral-history-watch.md`](../reference/08-living-oral-history-watch.md) for modern participant testimony that may resolve events but must be checked against contemporary records.
 
 ## Governing rule
 
