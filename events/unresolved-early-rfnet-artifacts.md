@@ -113,19 +113,63 @@ Do **not** infer the type of venue from the name alone.
 
 The generic naming is actually why this needs recovery: there may have been a single community photograph recognizable enough that no explanatory title was necessary to insiders.
 
+## New 2002 Christmas-party candidate cluster
+
+The January 2023 discussion titled **`First RF.NET X-Mas party`** materially narrows this mystery.
+
+An apparent participant identifies the first RFNet Christmas party as **2002**, matching the surviving RFNet gallery category `Christmas Party 2002`.
+
+The same discussion says:
+
+- the posted group photograph was **labeled**;
+- **two other group shots** from the party were taken/preserved in the RFNet archive;
+- a visible cluster in the labeled image included **HordeKing, Stalker Patti, Hosp and Moshin**, plus others;
+- a Dave & Buster's/Palisades-mall venue is remembered, although not yet contemporaneously verified.
+
+Source:
+- https://www.reddit.com/r/ronandfez/comments/10dvfb9
+
+See:
+- `christmas-party-2002-unresolved.md`
+
+### Why this is a serious candidate
+
+For the first time, the generic `The Group Photo` title can be tested against a specific early RFNet photo tradition:
+
+1. the event is from the founding-generation community;
+2. at least three group images were apparently preserved;
+3. at least one was labeled strongly enough for members to identify themselves twenty years later;
+4. the group photographs survived into the restored-archive era;
+5. a generic title such as `The Group Photo` would make sense if one image became canonical among insiders.
+
+### Why it remains unresolved
+
+No source currently says:
+
+> `The Group Photo is the Christmas Party 2002 group photograph.`
+
+No detail-page ID, old `displaymedia.cfm` URL, gallery title or direct shared URL has been recovered connecting the two.
+
+Therefore:
+
+> **2002 first-RFNet-Christmas-party group shot = `The Group Photo` is a U-level hypothesis.**
+
+Do not promote it until a direct bridge appears.
+
 ## Research question
 
 > Which “group” was sufficiently canonical that `The Group Photo` needed no other explanation?
 
-Potential contexts to test, not assume:
+Current candidate contexts, in descending evidentiary usefulness rather than probability:
 
+- one of the three remembered first-RFNet-Christmas-party 2002 group shots;
 - early RFNet meetup;
 - Big ASS Card members;
 - fight-night crowd;
-- holiday party;
+- another holiday party;
 - WNEW event.
 
-**Status: U beyond file existence.**
+**Status: artifact existence A/D; 2002 Christmas-party candidate U.**
 
 ---
 
@@ -184,28 +228,54 @@ Cross-reference:
 
 - exact title appears in RFNet Most Popular Files;
 - ~10.4k accumulated downloads;
-- title explicitly supplies **2002**.
+- title explicitly supplies **2002**;
+- the restored RFNet gallery independently preserves a category titled **`Christmas Party 2002`**;
+- a 2023 old-community discussion explicitly identifies the **first RF.NET X-Mas party** as **2002**.
 
-## What the title already proves
+See:
+- `christmas-party-2002-unresolved.md`
 
-By 2002, a community personality called **CyberSoldier** apparently had a holiday-party photo packet important enough to enter RFNet's most-downloaded archive material.
+## What has changed
 
-That again suggests fan events were meaningful independent artifacts.
+The investigation no longer needs to ask whether RFNet had a significant 2002 Christmas-party event. It did, to a much stronger degree of confidence than when this artifact ledger was created.
+
+The remaining question is:
+
+> **What was CyberSoldier's relationship to that event and its photographs?**
+
+This materially increases the plausibility that `CyberSoldier Holiday Party Pics 2002` belongs to the first-RFNet-Christmas-party photo cluster.
+
+Possible models still include:
+
+1. CyberSoldier hosted the first RFNet Christmas party;
+2. CyberSoldier photographed it;
+3. CyberSoldier assembled/uploaded one photo packet from a broader RFNet party;
+4. multiple photographers contributed separate sets to the same event;
+5. CyberSoldier's holiday party was a separate 2002 gathering.
+
+No direct source currently selects among them.
+
+## Venue lead
+
+The 2023 first-party discussion remembers **Dave & Buster's at the Palisades mall**, plausibly the Palisades Center in West Nyack, New York.
+
+That venue remains C/E-level until contemporary confirmation.
 
 ## Unknown
 
-- exact date;
-- venue;
+- exact calendar date;
+- confirmed venue/address;
 - CyberSoldier identity/role;
 - invite structure;
-- attendee roster;
+- full attendee roster;
 - Ron/Fez/staff participation;
-- relation to station Christmas events;
-- photographer/uploader.
+- original photographer/uploader chain;
+- whether the File Library packet maps directly to the restored gallery category;
+- whether the labeled group photo or other group shots came from CyberSoldier's packet.
 
 Searches for modern or unrelated `CyberSoldier` identities are not useful evidence and should not be merged into this person without an RFNet-specific bridge.
 
-**Status: A/D for archive title; U for details.**
+**Status: A/D for archive title; first RFNet Christmas party = 2002 strongly corroborated; CyberSoldier relationship U.**
 
 ---
 
@@ -215,34 +285,57 @@ Searches for modern or unrelated `CyberSoldier` identities are not useful eviden
 
 - exact title appears in RFNet Most Popular Files;
 - ~9.8k downloads;
-- a preserved fan-compiled Ron & Fez character census created in late 2007 independently lists **Moshin** in its `WNEW Era` section.
+- a preserved fan-compiled Ron & Fez character census created in late 2007 independently lists **Moshin** in its `WNEW Era` section;
+- a 2023 discussion of the labeled **first RFNet X-Mas party** group photograph identifies **Moshin** among the people visible in the image.
 
 Source for the later census:
 - https://wikibin.org/articles/list-of-ron-and-fez-show-characters.html
 
+First-party discussion:
+- https://www.reddit.com/r/ronandfez/comments/10dvfb9
+
+### Why the group-photo identification matters
+
+The Moshin problem previously had only two weak/opaque anchors:
+
+1. the mysterious `Moshin's Tattoo` file title;
+2. a later fan census placing the name in the WNEW era.
+
+The 2002 Christmas-party discussion adds a third and more concrete one:
+
+> **old community members identify Moshin in a labeled photograph from the first RFNet Christmas-party generation.**
+
+That establishes a physical-community role far better than the tattoo title alone.
+
 ### Evidence caution
 
-That page was itself deleted from Wikipedia for lacking reliable sources/notability. It is therefore useful only as **low-grade archival fan documentation**.
+The group-photo identification is still later participant/community recollection, not an original 2002 caption currently visible to us.
 
-It supports the narrower statement:
+It supports:
 
-> by 2007, Moshin was remembered as an early/WNEW-era Ron & Fez figure.
+- Moshin was a recognizable early physical RFNet figure;
+- Moshin was associated with the 2002 first-party social world.
 
-It does **not** identify the tattoo or establish Moshin's real identity.
+It does **not** identify:
+
+- Moshin's real identity;
+- tattoo design/text;
+- whether the tattoo was R&F branded;
+- whether the tattoo was permanent;
+- when/where the tattoo occurred.
 
 ## Unknown
 
-- who Moshin was beyond the early-community association;
 - tattoo image/text;
-- whether R&F/Big ASS logo or another inside reference;
 - date;
 - whether tattooing happened at an event;
 - on-air reaction;
-- whether it was permanent or a stunt.
+- whether it was permanent or a stunt;
+- exact RFNet account/profile history.
 
 Do not describe the tattoo until the artifact itself is recovered.
 
-**Status: artifact existence A/D; Moshin early-community association E; tattoo content U.**
+**Status: artifact existence A/D; early physical-community association C/E + low-grade 2007 census; tattoo content U.**
 
 ---
 
@@ -296,7 +389,7 @@ This search failure is therefore recorded as a **do-not-redo checkpoint**.
 
 The next gate has now been partially executed and documented in:
 
-- `reference/10-rfnet-media-url-reconstruction.md`
+- `../reference/10-rfnet-media-url-reconstruction.md`
 
 ## Major technical finding — old numeric deep links survived elsewhere
 
@@ -333,7 +426,7 @@ Therefore numeric IDs can help map the archive, but cannot be treated as a simpl
 
 It is not yet proven that old `displaymedia.cfm` numeric IDs were preserved unchanged in the restored `downloads.php` system.
 
-The highest-value technical test is now:
+The highest-value technical test remains:
 
 > find one known old `displaymedia.cfm` item in the restored library and compare its ID.
 
@@ -347,9 +440,41 @@ The restored Photo Gallery preserves historical material with:
 - original-source credits in descriptions;
 - filenames sometimes containing older dates;
 - comments correcting identities;
-- migration-era uploader accounts such as Mikeyboy.
+- migration-era uploader accounts such as Mikeyboy;
+- later restored/labeled group photographs that can reconnect handles to physical events.
 
 The displayed gallery upload date must remain separate from the original event/photo date.
+
+### New gallery/file crosswalk strategy
+
+The 2002 Christmas-party case shows that **event-photo clusters can narrow otherwise generic File Library titles even before a numeric file ID is found**.
+
+The current model to test is:
+
+`first RFNet Christmas party → three remembered group shots → restored gallery / shared labeled image → possible The Group Photo record`
+
+and separately:
+
+`first RFNet Christmas party → restored Christmas Party 2002 category → possible CyberSoldier Holiday Party Pics 2002 packet`
+
+These are not resolved mappings, but they are substantially more constrained than raw title searches.
+
+## FoundryMusic/shared-software clue
+
+Contemporary evidence places FoundryMusicJeff / Jeff Shain in RFNet's governing and technical layer, and FoundryMusic independently used the same `displaymedia.cfm`-style media-route family.
+
+That supports a **shared or related Jeff-era software lineage** as a working hypothesis.
+
+It does **not** establish:
+
+- one shared RFNet/Foundry database;
+- a global shared media-ID namespace;
+- one-to-one ID equivalence across domains.
+
+Searches for Foundry records matching known RFNet historical IDs **2989, 3004 and 3018** produced no indexed matches.
+
+See:
+- `../community/12-rfnet-governance-foundrymusicjeff.md`
 
 ## Common Crawl / CDX status
 
@@ -368,12 +493,15 @@ Next external/archive-index queries should target:
 
 ## Revised retrieval gate
 
-1. mine third-party forums/blogs for copied `displaymedia.cfm/id/` links;
-2. establish one old-ID ↔ restored-ID crosswalk;
-3. run Common Crawl/Wayback URL enumeration when a tool can query arbitrary archive indexes;
-4. enumerate numeric restored file pages safely;
-5. mine gallery metadata/comments as a parallel provenance layer;
-6. cross-match recovered IDs to dated audio and threads.
+1. recover the 2023 first-XMas-party shared image and the two other remembered group shots;
+2. test those directly against `The Group Photo`;
+3. mine third-party forums/blogs for copied `displaymedia.cfm/id/` links;
+4. establish one old-ID ↔ restored-ID crosswalk;
+5. run Common Crawl/Wayback URL enumeration when a tool can query arbitrary archive indexes;
+6. enumerate numeric restored file pages safely;
+7. mine gallery metadata/comments as a parallel provenance layer;
+8. cross-match recovered IDs to dated audio and threads;
+9. continue the CyberSoldier ↔ Christmas Party 2002 crosswalk.
 
 ---
 
@@ -387,12 +515,12 @@ Use them for **relative cultural prominence in the surviving archive**, not as e
 
 # Priority order
 
-1. Recover historical file IDs / detail page for **Slumber Party Pics**.
-2. Recover **A Night at Double D's** detail page.
-3. Identify the **WWF SmackDown** episode/taping from the candidate set or later local dates.
-4. Recover CyberSoldier party images and roster.
-5. Recover Moshin tattoo artifact.
-6. Identify `The Group Photo`.
+1. Recover the **first RFNet X-Mas party labeled image** and two other group shots; test `The Group Photo`.
+2. Recover historical file IDs / detail page for **Slumber Party Pics**.
+3. Recover **A Night at Double D's** detail page.
+4. Identify the **WWF SmackDown** episode/taping from the candidate set or later local dates.
+5. Recover `CyberSoldier Holiday Party Pics 2002` and cross-map it to the now-confirmed first 2002 RFNet Christmas-party cluster.
+6. Recover Moshin tattoo artifact.
 7. Separate Big Ass Fights archive item by event.
 8. Establish whether old and restored RFNet numeric media IDs crosswalk directly.
 
@@ -400,4 +528,6 @@ Use them for **relative cultural prominence in the surviving archive**, not as e
 
 These titles reveal a hidden truth about RFNet: some of its most durable artifacts were **not recordings of Ron and Fez talking**. They were evidence that listeners had turned the show into something they could attend, photograph, wear, tattoo, and recognize themselves inside.
 
-The technical problem is now clearer as well: much of this history is hidden behind a **broken index**, not necessarily lost content. Reconstructing RFNet's historical address system may reopen entire clusters of early-community evidence.
+The 2002 Christmas-party reconstruction is the first time two of the opaque Most Popular Files entries — **`The Group Photo`** and **`CyberSoldier Holiday Party Pics 2002`** — can be placed against a specific early-community event/photo cluster without inventing a resolution.
+
+The technical problem remains a broken index, but the social evidence is beginning to rebuild the index from the outside in.
