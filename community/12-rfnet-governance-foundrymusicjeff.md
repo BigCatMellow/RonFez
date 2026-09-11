@@ -102,6 +102,69 @@ This may explain why early RFNet and neighboring boards shared structural/techni
 
 ---
 
+## 4. FoundryMusic independently used the same `displaymedia.cfm` media-route family
+
+A September 2026 external-link recovery pass found multiple contemporary or near-contemporary pages preserving dead **FoundryMusic** media URLs.
+
+Examples include:
+
+- a March 23, 2007 wrestling-news item linking Mick Foley's Opie & Anthony appearance as:
+  - `foundrymusic.com/media/displaymedia.cfm/id/14411/page/show_video_number_14411.html`
+- other surviving third-party references use section-prefixed FoundryMusic routes such as:
+  - `/opieanthony/displaymedia.cfm/...`
+  - `/braincandy/displaymedia.cfm/...`
+
+Representative source:
+- https://www.wrestlezone.com/news/220697-wwe-notes-on-orton-wm23-lesnarmma-more
+
+This matters because historical RFNet media links independently survive in the closely related form:
+
+- `ronfez.net/displaymedia.cfm/id/<number>`
+
+See:
+- `../reference/10-rfnet-media-url-reconstruction.md`
+
+### What can safely be inferred
+
+Taken together with Jeff's explicit 2002 statement about **“my board software”**, the matching ColdFusion-style media-route convention materially strengthens a working hypothesis that RFNet and FoundryMusic belonged to a **shared Jeff-era software/code ecosystem** rather than being technically unrelated fan sites.
+
+The evidence is consistent with possibilities such as:
+
+1. shared custom application code;
+2. a common Jeff-developed software family deployed separately;
+3. one site's code being forked or adapted for another;
+4. shared conventions layered on a broader ColdFusion application stack.
+
+### What this does **not** prove
+
+The matching route does **not** establish that:
+
+- RFNet and FoundryMusic used the same database;
+- media IDs were globally unique across both domains;
+- an RFNet item with ID `3004` was the same record as a FoundryMusic item with ID `3004`;
+- FoundryMusic mirrored every RFNet media item;
+- Jeff personally wrote every part of the media subsystem.
+
+A direct September 2026 search for FoundryMusic records matching known historical RFNet IDs **2989, 3004, and 3018** produced no indexed title/record matches. That is not proof the IDs never existed on FoundryMusic, but it provides no support for a shared global ID namespace.
+
+**Current technical classification:**
+
+> **shared/related software lineage: plausible and increasingly well-supported; shared media database or ID namespace: unproven.**
+
+### Highest-value technical proof still missing
+
+Recover one of the following:
+
+- identical media title/content on both domains with independently preserved URLs;
+- source/footer/software credit naming the media application;
+- archived RFNet/Foundry HTML showing identical generated markup or database keys beyond generic ColdFusion syntax;
+- Jeff or another operator explicitly describing the relationship between the two codebases;
+- an old redirect or cross-domain link that maps one media record directly to the other.
+
+Until then, keep **software lineage** and **database identity** as separate questions.
+
+---
+
 # The OA.com dispute as evidence of board ecology
 
 The October 2002 post appears during the collapse/crisis of an O&A board.
@@ -219,6 +282,8 @@ This distinction matters because community sites are often created by several pe
 9. Whether RFNet's rules/moderation policy was written by Jeff.
 10. Exact date Jeff ceased daily governance.
 11. Board migration/version changes and whether software ownership changed.
+12. Whether FoundryMusic and RFNet used one media application codebase or sibling deployments.
+13. Whether any media record can be cross-mapped between domains by title, ID, generated markup or redirect.
 
 ## Core conclusion
 
@@ -226,8 +291,10 @@ The early RFNet administration is no longer a blank.
 
 A contemporary 2002 record places **FoundryMusicJeff / Jeff Shain directly in the site's governing and technical layer**. He describes himself as running RFNet, calls it his board, and claims ownership of board software used elsewhere in the radio-fan web ecosystem.
 
+The later discovery that FoundryMusic also used the same `displaymedia.cfm` media-route family strengthens the case for a shared software lineage, but it does **not** establish a shared database or common numeric-ID namespace.
+
 The remaining question is no longer **“Did Jeff run RFNet?”**
 
-The better question is:
+The better questions are:
 
-> **Exactly what combination of founder, owner, software architect and administrator was Jeff—and who shared those roles with him?**
+> **Exactly what combination of founder, owner, software architect and administrator was Jeff—and how much code and infrastructure did RFNet share with FoundryMusic and the neighboring O&A web ecosystem?**
