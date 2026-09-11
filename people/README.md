@@ -6,83 +6,74 @@ The first-pass genealogy lives in [`../forensics/02-cast-genealogy.md`](../foren
 
 ## Completed / active community biographies
 
-- [`community/gvac-greg-petraitis.md`](community/gvac-greg-petraitis.md) — founding-era RFNet member, caller, offline friend network, later *Weird Medicine* participant
-- [`community/mikeyboy.md`](community/mikeyboy.md) — former RFNet admin, photographer, archive custodian, occasional show participant
-- [`community/justjon.md`](community/justjon.md) — founding-era member, early media uploader, front-page/event organizer; exact formal governance title still under investigation
-- [`community/french-bread-pizza.md`](community/french-bread-pizza.md) — surviving Paltalk listing identifies French Bread Pizza as owner of the Ron and Fez Big ASS Room
+- [`community/gvac-greg-petraitis.md`](community/gvac-greg-petraitis.md) — founding-era RFNet member, caller, 2001-era offline network, later *Weird Medicine* participant
+- [`community/mikeyboy.md`](community/mikeyboy.md) — former RFNet admin, photographer/archive custodian, occasional show participant
+- [`community/justjon.md`](community/justjon.md) — founding-era member, early media uploader, front-page/event organizer
+- [`community/french-bread-pizza.md`](community/french-bread-pizza.md) — early live-event personality and later surviving Paltalk Big ASS Room owner
 - [`community/happy-typing-girl-debbie-wolf.md`](community/happy-typing-girl-debbie-wolf.md) — longtime fan, Paltalk/social figure, event participant, PAC/CNN crossover
-- [`community/irish-alkey-patrick.md`](community/irish-alkey-patrick.md) — community member whose 2011 death/funeral appeal demonstrates the board's real-world mutual-aid function
-- [`community/sheepy.md`](community/sheepy.md) — board/social personality, live-event comic target, useful case for the insider-era divide
-- [`community/bronx-johnny.md`](community/bronx-johnny.md) — R&F intern/contributor connecting the show to High Society Radio and the multi-board ecology
+- [`community/irish-alkey-patrick.md`](community/irish-alkey-patrick.md) — community member whose 2011 funeral appeal demonstrates real-world mutual aid
+- [`community/sheepy.md`](community/sheepy.md) — board/social personality, Rock-a-Hula event target, insider-era reception case
+- [`community/bronx-johnny.md`](community/bronx-johnny.md) — R&F intern/contributor connecting the show to High Society Radio and multi-board ecology
 - [`community/perrynoid.md`](community/perrynoid.md) — deliberately performed fan persona/musician and WJFK-era contributor
 - [`community/bl-brenda-lee.md`](community/bl-brenda-lee.md) — Florida prehistory: Ron & Ron screener/on-air talent, *Hooters on the Radio*, SportsChix, R&F/Bennington continuity
-- [`community/crazy-jen.md`](community/crazy-jen.md) — WJFK listener/studio regular, Chinese Water Torture, event participant, later Paltalk/XM figure
+- [`community/crazy-jen.md`](community/crazy-jen.md) — WJFK listener/studio regular, Chinese Water Torture, physical-event participant, later Paltalk/XM figure
 - [`community/big-a-andrew-gold.md`](community/big-a-andrew-gold.md) — shared O&A/R&F satellite personality with a particularly important Fez relationship
 - [`community/fleaman.md`](community/fleaman.md) — cross-board reputation, FBA/Wackbag disputes, RFNet physical-community presence
 - [`community/chuckwagon-lenny-mcnab.md`](community/chuckwagon-lenny-mcnab.md) — ChuckWagonCook/Lenny McNab, Fez conflict, 2009 primary-audio targets, Food Network rediscovery, RFNet-decline lore
 - [`community/hottub.md`](community/hottub.md) — 41k-post RFNet identity, softball/BBQ/gallery presence, Chuckwagon-adjacent reconstruction lead
-- [`community/spoon.md`](community/spoon.md) — founding-era high-volume RFNet poster, 2001 bar-crawl oral history, GVac friendship, Matty/late-board conflict lead
+- [`community/spoon.md`](community/spoon.md) — founding-era high-volume RFNet poster, 2001 bar-crawl oral history, Matty/late-board conflict lead
+- [`community/matty-fridays.md`](community/matty-fridays.md) — early RFNet civilian; fought GVac for the RonFez.net Championship at Night of Fights II
+- [`community/don-stugots.md`](community/don-stugots.md) — 28k-post RFNet identity, event photographer/commenter, Don Stugots Experience BBQ, secondary-media leads
+- [`community/mike-the-teacher.md`](community/mike-the-teacher.md) — fan/community photographer whose Big ASS Bash and Dave/Casey wedding images were curated into RFNet
+- [`community/hard-rock-johnny.md`](community/hard-rock-johnny.md) — Hard Rock/music-memorabilia bridge, event figure, recurring studio guest through late R&F
+- [`community/crazed.md`](community/crazed.md) — shared O&A/R&F civilian personality, station/show liners, raps/movie reviews, physical-community presence
+- [`community/bobo.md`](community/bobo.md) — WJFK fan-musician (Dan Rather song), Red Rock West attendee, later Big ASS Bash/ticket-story continuity
+- [`community/snoogans.md`](community/snoogans.md) — 36k-post RFNet identity, Red Rock West attendee, long-term general-community user
 
-These files preserve uncertainty instead of filling biographical gaps with fan lore.
+## Staff biographies started
+
+- [`staff/al-dukes.md`](staff/al-dukes.md) — March 5, 2001 WNEW start; major foil; Gay Randy/“THIS IS NOT A BIT”; Night of Fights exit; later oral history
 
 ## Biography template
 
-Each person file should eventually include:
+Each person file should eventually include legal/real name when publicly documented; radio names/handles; earliest known appearance; route into the universe; employment role; exact tenure; major relationships; bits/storylines; live events; board/Paltalk presence; recurring phrases/drops; music/production contributions; work/shoot issues; departure; later life where publicly volunteered; retrospectives; contemporary fan record; unresolved lore; and source/evidence grades.
 
-- legal/real name when publicly documented;
-- radio name(s), nicknames, screen names, aliases;
-- first known appearance;
-- route into the R&F universe;
-- employment role if any;
-- exact tenure/dates;
-- major relationships;
-- major bits/storylines;
-- live events;
-- message-board/Paltalk presence;
-- recurring phrases or drops;
-- music/production contributions;
-- major conflicts;
-- work/shoot issues;
-- departure/exit;
-- post-R&F life where publicly documented;
-- participant retrospectives;
-- contemporaneous fan record;
-- unresolved lore;
-- source list with evidence grades.
-
-## Core hosts / roots
+## Core hosts / roots — still need dedicated files
 
 - Ron Bennington
 - Fez Whatley / Todd Hillier
 - Ron Diaz
 
-## WNEW / early production family
+## WNEW / early production family — queued
 
-- Al Dukes
 - Billy Staples / William Hine
 - Earl Douglas / Black Earl
 - Hawk
 - Giant Brian Carothers
-- other WNEW producers/screeners to recover
+- Rory Hamptons
+- Joe Poo
+- Tuddle
+- Tommy Bateman
+- other WNEW producers/screeners
 
-## Fairfax / WJFK friends-of-show branch
+## Fairfax / WJFK branch — queued
 
-- Perrynoid — profile started
 - Cherrynoid
-- Mikeyboy — profile started
 - David Lee Kinison / Elfish
 - Cigar Sid / Sidcada
-- Crazy Jen — profile started
 - Don the Hypnotist
 - J-Dubbs
 - El Jefe
+- Wonderboy
+- intern Monster
 - Tender
-- BoBo
-- Mike the Teacher
+- BoBo — profile started as `bobo.md`; verify capitalization/aliases
+- Mike the Teacher — profile started
 - Silera
-- other WJFK regulars to recover
+- Monty Love
+- Mike/other Hideout crossover figures
 
-## XM / SiriusXM core
+## XM / SiriusXM core — queued
 
 - East Side Dave McDonald
 - Casey Elan
@@ -90,7 +81,8 @@ Each person file should eventually include:
 - Mooch Cassidy
 - Lilly
 - Pitzy
-- other producers/interns by exact tenure
+- Scruffy
+- additional producers/interns by exact tenure
 
 ## Old Ron / Florida continuity
 
@@ -99,7 +91,7 @@ Each person file should eventually include:
 - B.L. / Brenda Lee — profile started
 - Julie Williams
 - Lynne Austin
-- other *Ron & Ron* / *Hooters on the Radio* figures carried forward
+- other *Ron & Ron* / *Hooters on the Radio* figures
 
 ## O&A / shared satellite ecosystem
 
@@ -110,30 +102,17 @@ Each person file should eventually include:
 - Sam Roberts
 - shared producers/comedians/friends where relevant to R&F
 
-## Fan/community figures
+## Community figures still queued
 
-- Happy Typing Girl / Debbie Wolf — profile started
-- French Bread Pizza / Frenchie — profile started
-- Sheepy — profile started
-- G-VAC / Greg Petraitis — profile started
-- Irish Alkey / Patrick — profile started
-- Bronx Johnny — profile started
-- JustJon — profile started
-- Flea / FleaMan — profile started
-- Chuckwagon / ChuckWagonCook / Lenny McNab — profile started
-- Hottub — profile started
-- spoon — profile started
 - Mafia Life Chris
-- Hard Rock Johnny
-- BL — see Florida continuity profile
+- Hard Rock Johnny — profile started
 - Mikey D
 - Baby Girl
 - G-Baby
 - Silera
-- Crazed
 - GAZ
 - Reilly
-- Matty Fridays
+- Crazed — profile started
 - Friday — kept separate from Matty Fridays until sourced
 - Fallon
 - S0S
@@ -142,10 +121,22 @@ Each person file should eventually include:
 - Dizzy
 - AngryMissy
 - Leticia
+- Faith
+- Kevin Ogre
+- Smiler Grogan
+- Green Lantern
+- Lesley
+- Tenbatsuzen
+- C_T / CT & Jivin
+- Cockstrong
+- Photoshop Mike
+- Don Wickland
 - Ozzie
 - Msteels / Steels
 - Doctor Steve
 - Sleeves
+- CyberSoldier
+- Moshin
 - 202Friends participants
 - major RonFez.net moderators/admins
 - major Paltalk regulars
@@ -176,13 +167,9 @@ Known examples discussed so far:
 
 ## Research principle
 
-The point is not merely to answer **“who was this?”**
-
-For every person, the more useful question is:
+The point is not merely to answer **“who was this?”** For every person, ask:
 
 > **How did this human being enter the R&F system, what relationships made them useful, who shaped their radio identity, and how much of the identity was consciously performed?**
-
-That distinction is essential for a show where real people, fictional people, heightened personas, fans, employees, and friends all appeared in the same continuity.
 
 ### Detail policy
 
