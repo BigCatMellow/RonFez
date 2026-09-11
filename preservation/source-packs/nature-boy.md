@@ -10,7 +10,7 @@ Canonical character file:
 - `../../characters/nature-boy.md`
 
 Wiki page:
-- `../../wiki/Fez-Whatley-The-Nature-Boy.md`
+- `../../wiki/Nature-Boy.md`
 
 ---
 
@@ -43,6 +43,35 @@ This is the strongest surviving published bridge between Nature Boy and the Flor
 - exact music bed.
 
 **Preservation priority:** highest.
+
+### NB-01A — surviving publisher metadata for the retrospective audio
+
+A separate surviving podcast/audiobook index preserves publisher metadata for the actual **April 10, 2015** Ron & Fez retrospective broadcast.
+
+**URL**
+- https://www.ivoox.com/podcast-get-best-sellers-audiobooks-in-radio-tv_sq_f1571939_2.html
+
+**Visible metadata**
+- title: `Ron & Fez, April 10, 2015`
+- author/narrator: Ron & Fez
+- format: **Original Recording**
+- length: **2 hrs 36 mins**
+- release date: **04-10-15**
+- publisher: **XM Satellite Radio**
+- broadcast date: **April 10, 2015**
+- publisher summary says the show looks back at bits from the **Ron & Ron show**, plus later Fez material.
+
+**Why this matters**
+
+This turns the retrospective from merely a program-list article into a **specific recoverable audio object**. Future searches should target the exact title/date/duration/publisher combination even if the current iVoox page disappears.
+
+The page's visible player length is not evidence of the full recording duration; the publisher metadata itself states **2 hrs 36 mins**.
+
+**Recovery key**
+
+> `Ron & Fez, April 10, 2015` / `XM Satellite Radio` / `2 hrs 36 mins`
+
+The highest-value next action is still to recover/listen to this full recording and timecode the `Nature Boy: Marge Schott` segment plus Ron/Fez's introduction to it.
 
 ---
 
@@ -277,6 +306,7 @@ The memorial compilation contains multiple independent references to Nature Boy,
 - Nature Boy existed during **The Ron & Ron Show**.
 - It was sufficiently established to leave a Florida-era clip later labeled `Fez is The Nature Boy: Marge Schott`.
 - a Florida radio-industry listener remembers smoke filling the studio as part of the bit's production ritual.
+- the April 10, 2015 retrospective survives as a specifically identified **2 hr 36 min XM Satellite Radio original recording** in publisher-derived metadata, giving the archive a concrete recovery target.
 
 ### Narrowed but unresolved
 
@@ -303,7 +333,7 @@ No surviving source inspected so far identifies which news cycle produced the ar
 
 ## Next recovery targets
 
-1. Recover the full April 10, 2015 retrospective audio and listen to Ron/Fez's introduction to the Marge Schott clip; they may state the original year or station.
+1. Recover the full **April 10, 2015, 2 hr 36 min XM retrospective** and listen to Ron/Fez's introduction to the Marge Schott clip; they may state the original year or station.
 2. Search Ron & Ron tape collections specifically for late 1992–February 1993.
 3. Search again around May–June 1996 if the first window fails.
 4. Recover the original clip filename/metadata from SiriusXM-era Best Of systems if any list survives.
