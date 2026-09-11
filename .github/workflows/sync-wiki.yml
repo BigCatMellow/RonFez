@@ -1,0 +1,47 @@
+name: Sync GitHub Wiki
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'wiki/**'
+      - '.github/workflows/sync-wiki.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out canonical repository
+        uses: actions/checkout@v4
+
+      - name: Clone GitHub Wiki
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git clone "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git" .wiki
+
+      - name: Replace Wiki pages from canonical source
+        run: |
+          set -euo pipefail
+          find .wiki -maxdepth 1 -type f -name '*.md' -delete
+          find wiki -maxdepth 1 -type f -name '*.md' ! -name 'README.md' -exec cp {} .wiki/ \;
+
+      - name: Commit and publish Wiki
+        working-directory: .wiki
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Wiki is already current."
+            exit 0
+          fi
+          git commit -m "Sync wiki from canonical repository source"
+          git push origin HEAD
