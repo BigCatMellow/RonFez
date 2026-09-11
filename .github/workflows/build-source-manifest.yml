@@ -1,0 +1,77 @@
+name: Build External Source Manifest
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/build-source-manifest.yml"
+      - "scripts/preserve_sources.py"
+      - "preservation/**"
+      - "wiki/**"
+      - "chronology/**"
+      - "community/**"
+      - "events/**"
+      - "people/**"
+      - "themes/**"
+      - "forensics/**"
+      - "reference/**"
+      - "characters/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-external-source-manifest
+  cancel-in-progress: true
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build manifest without Save Page Now requests
+        run: |
+          python scripts/preserve_sources.py --workers 12
+
+      - name: Print inventory summary
+        run: |
+          python - <<'PY'
+          import csv
+          from collections import Counter
+          from urllib.parse import urlparse
+          rows = list(csv.DictReader(open('preservation/source-manifest.csv', encoding='utf-8')))
+          live = sum(r['live_status'].startswith(('2','3')) for r in rows)
+          snapshots = sum(bool(r['wayback_snapshot']) for r in rows)
+          hashed = sum(bool(r['sha256']) for r in rows)
+          dead = sum(bool(r['live_status']) and not r['live_status'].startswith(('2','3')) for r in rows)
+          hosts = Counter(urlparse(r['source_url']).netloc.lower() for r in rows)
+          print(f'Total distinct external URLs: {len(rows)}')
+          print(f'Live/redirecting: {live}')
+          print(f'Non-live/error: {dead}')
+          print(f'Wayback snapshot known: {snapshots}')
+          print(f'Full text response hash recorded: {hashed}')
+          print('Top hosts:')
+          for host, count in hosts.most_common(15):
+              print(f'  {count:4d}  {host}')
+          PY
+
+      - name: Commit manifest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add preservation/source-manifest.csv
+          if git diff --cached --quiet; then
+            echo "Manifest unchanged."
+            exit 0
+          fi
+          git commit -m "Refresh external source manifest [skip ci]"
+          git push
