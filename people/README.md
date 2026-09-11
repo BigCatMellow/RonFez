@@ -32,6 +32,8 @@ This folder is for one-file-per-person biographies and relationship maps. The fi
 - [`community/cigar-sid-sidcada.md`](community/cigar-sid-sidcada.md) — Fairfax caller/studio regular and *Hideout* cast
 - [`community/monty-love-band.md`](community/monty-love-band.md) — real Staten Island punk/pop-punk act linked to R&F events
 - [`community/don-the-hypnotist-don-friedman.md`](community/don-the-hypnotist-don-friedman.md) — real professional hypnotist; WJFK/XM guest and active oral-history source
+- [`community/hosp-gary-oransky.md`](community/hosp-gary-oransky.md) — first-Christmas-party-era civilian; `gay Sean Connery` identity, 2008 cancer-walk appearance, later public self-identification as Gary Oransky
+- [`community/death-metal-moe.md`](community/death-metal-moe.md) — long-running RFNet identity, Big A.S.S. Card #9170, Unhallowed musician, later Matty Fridays continuity
 
 ## Staff biographies started
 
@@ -102,7 +104,7 @@ This folder is for one-file-per-person biographies and relationship maps. The fi
 
 ## Community figures still queued
 
-Mafia Life Chris; Mikey D; Baby Girl; G-Baby; Silera; GAZ; Reilly; Friday; Fallon; S0S; thepaulo; Brazilian Julie; Dizzy; AngryMissy; Leticia; Faith; Kevin Ogre; Smiler Grogan; Green Lantern; Lesley; Tenbatsuzen; C_T / CT & Jivin; Cockstrong; Photoshop Mike; Don Wickland; Ozzie; Msteels / Steels; Doctor Steve; Sleeves; CyberSoldier; Moshin; 202Friends participants; remaining RFNet moderators/admins; Paltalk regulars; fan musicians and archivists.
+Mafia Life Chris; Mikey D; Baby Girl; G-Baby; Silera; GAZ; Reilly; Friday; Fallon; S0S; thepaulo; Brazilian Julie; Dizzy; AngryMissy; Leticia; Faith; Kevin Ogre; Smiler Grogan; Green Lantern; Lesley; Tenbatsuzen; C_T / CT & Jivin; Cockstrong; Photoshop Mike; Don Wickland; Ozzie; Msteels / Steels; Doctor Steve; Sleeves; CyberSoldier; Moshin; HordeKing; Bobby Pantera; 202Friends participants; remaining RFNet moderators/admins; Paltalk regulars; fan musicians and archivists.
 
 ## Late-era interns / staff
 
