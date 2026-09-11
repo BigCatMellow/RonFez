@@ -285,7 +285,7 @@ Searches for modern or unrelated `CyberSoldier` identities are not useful eviden
 
 - exact title appears in RFNet Most Popular Files;
 - ~9.8k downloads;
-- a preserved fan-compiled Ron & Fez character census created in late 2007 independently lists **Moshin** in its `WNEW Era` section;
+- a preserved fan-compiled Ron & Fez character/civilian census created in late 2007 includes **Moshin** among recognized R&F/message-board figures;
 - a 2023 discussion of the labeled **first RFNet X-Mas party** group photograph identifies **Moshin** among the people visible in the image.
 
 Source for the later census:
@@ -294,22 +294,30 @@ Source for the later census:
 First-party discussion:
 - https://www.reddit.com/r/ronandfez/comments/10dvfb9
 
-### Why the group-photo identification matters
+Dedicated person file:
+- `../people/community/moshin.md`
 
-The Moshin problem previously had only two weak/opaque anchors:
+### Source correction
 
-1. the mysterious `Moshin's Tattoo` file title;
-2. a later fan census placing the name in the WNEW era.
+An earlier version of this ledger incorrectly said the 2007 fan census listed Moshin in a discrete **`WNEW Era`** section.
 
-The 2002 Christmas-party discussion adds a third and more concrete one:
+The surviving page actually places Moshin in:
 
-> **old community members identify Moshin in a labeled photograph from the first RFNet Christmas-party generation.**
+> **`Current Era: XM, WFNY-FM, and messageboard posters`**
 
-That establishes a physical-community role far better than the tattoo title alone.
+The page was deleted because it was unreferenced and failed notability standards. It is useful as low-grade evidence that fans still recognized the name in late 2007, but **it does not date Moshin's entry into the community**.
+
+### Why the 2002 group-photo identification matters
+
+The stronger early anchor is now the Christmas-party photograph discussion:
+
+> **old community members identify Moshin in a labeled photograph from the first RFNet Christmas-party generation, identified as 2002.**
+
+That gives Moshin a concrete physical-community association well before the 2007 census.
 
 ### Evidence caution
 
-The group-photo identification is still later participant/community recollection, not an original 2002 caption currently visible to us.
+The labeled image itself is not yet directly retrievable in the current environment, so the identification currently survives through later participant/community discussion rather than a directly readable original caption.
 
 It supports:
 
@@ -335,7 +343,7 @@ It does **not** identify:
 
 Do not describe the tattoo until the artifact itself is recovered.
 
-**Status: artifact existence A/D; early physical-community association C/E + low-grade 2007 census; tattoo content U.**
+**Status: artifact existence A/D; early physical-community association C/E; 2007 name-recognition census E/D-style fan record; tattoo content U.**
 
 ---
 
