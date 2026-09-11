@@ -18,6 +18,10 @@ The first-pass genealogy lives in [`../forensics/02-cast-genealogy.md`](../foren
 - [`community/bl-brenda-lee.md`](community/bl-brenda-lee.md) — Florida prehistory: Ron & Ron screener/on-air talent, *Hooters on the Radio*, SportsChix, R&F/Bennington continuity
 - [`community/crazy-jen.md`](community/crazy-jen.md) — WJFK listener/studio regular, Chinese Water Torture, event participant, later Paltalk/XM figure
 - [`community/big-a-andrew-gold.md`](community/big-a-andrew-gold.md) — shared O&A/R&F satellite personality with a particularly important Fez relationship
+- [`community/fleaman.md`](community/fleaman.md) — cross-board reputation, FBA/Wackbag disputes, RFNet physical-community presence
+- [`community/chuckwagon-lenny-mcnab.md`](community/chuckwagon-lenny-mcnab.md) — ChuckWagonCook/Lenny McNab, Fez conflict, 2009 primary-audio targets, Food Network rediscovery, RFNet-decline lore
+- [`community/hottub.md`](community/hottub.md) — 41k-post RFNet identity, softball/BBQ/gallery presence, Chuckwagon-adjacent reconstruction lead
+- [`community/spoon.md`](community/spoon.md) — founding-era high-volume RFNet poster, 2001 bar-crawl oral history, GVac friendship, Matty/late-board conflict lead
 
 These files preserve uncertainty instead of filling biographical gaps with fan lore.
 
@@ -115,6 +119,10 @@ Each person file should eventually include:
 - Irish Alkey / Patrick — profile started
 - Bronx Johnny — profile started
 - JustJon — profile started
+- Flea / FleaMan — profile started
+- Chuckwagon / ChuckWagonCook / Lenny McNab — profile started
+- Hottub — profile started
+- spoon — profile started
 - Mafia Life Chris
 - Hard Rock Johnny
 - BL — see Florida continuity profile
@@ -125,16 +133,17 @@ Each person file should eventually include:
 - Crazed
 - GAZ
 - Reilly
-- Hottub
-- spoon
+- Matty Fridays
+- Friday — kept separate from Matty Fridays until sourced
 - Fallon
 - S0S
 - thepaulo
-- Flea / FleaMan
 - Brazilian Julie
 - Dizzy
 - AngryMissy
 - Leticia
+- Ozzie
+- Msteels / Steels
 - Doctor Steve
 - Sleeves
 - 202Friends participants
@@ -178,3 +187,7 @@ That distinction is essential for a show where real people, fictional people, he
 ### Detail policy
 
 No figure is excluded merely for being obscure. If a reliable trace survives—one call, one board role, one event photo, one song credit, one notorious thread—it belongs in the research queue and eventually gets an entry.
+
+### Privacy/deanonymization policy
+
+Do not use modern people-search/data-broker services to expose real names behind old handles. Handle-only biographies are acceptable and often historically more faithful. See [`../forensics/00-methodology.md`](../forensics/00-methodology.md).
