@@ -73,7 +73,12 @@ The same compilation labels:
 ### Theme-origin lead
 Later fans remember Dave opening with **“A Little Gossip” from *Man of La Mancha*** and say Ron asked where he found the song. The remembered explanation is that Dave searched XM's internal music system for “gossip” and found it.
 
-This is a strong oral-history lead but remains C/E until this full show is checked.
+A 2024 discussion of Dave's *Tales From the Satellite* contains a particularly specific recollection: a listener says this exchange occurs in the **first minutes of the first real Board Gossip**, with Ron asking where the song came from and Dave explaining the keyword search.
+
+Source lead:
+- https://www.reddit.com/r/ronandfez/comments/1chxey9
+
+This remains C/E until the full Nov. 8 broadcast is inspected.
 
 ### Need to establish
 - exact timestamp;
@@ -87,6 +92,33 @@ This is a strong oral-history lead but remains C/E until this full show is check
 
 Source:
 - https://www.youtube.com/watch?v=nOKz3KVu47k
+
+---
+
+## By 2007-03-09 — already culturally recognizable
+
+A completely independent general-entertainment forum discussion about whether *Ron & Fez* was funny was posted on **March 9, 2007**.
+
+One fan lists favorite elements of the show and writes:
+
+> `Razzle Dazzle its BOARD GOSSIP..MR B!`
+
+The same post lists other era-defining material such as Soundboard Fez, the Big ASS Prize Closet, Earl's football picks, Paul O, Big A, Comedy Pyramid and the Midnight Rider.
+
+This is valuable because it establishes that **Board Gossip and its “Razzle Dazzle” presentation were already familiar enough to listeners to quote from memory by early March 2007**, only about four months after the proposed November 2006 debut.
+
+Source:
+- https://forums.thesmartmarks.com/topic/85421-ron-and-fez/
+
+**Evidence grade: D — independent contemporary fan discussion.**
+
+### Additional board-ecology clue from the same thread
+
+The same March 2007 discussion includes a poster saying they had never visited **Fullblownaids** and joking that any board where East Side Dave was a moderator could not be great.
+
+This is contemporaneous evidence suggesting **Dave had moderator status or was at least widely believed to have moderator status on FBA by March 2007**.
+
+This should be verified against FBA itself before upgrading to fact.
 
 ---
 
@@ -147,6 +179,33 @@ Source:
 
 ---
 
+# Recurring Board Gossip sub-feature lead: “Sweet Melinda”
+
+A 2015 Something Awful retrospective of the O&A/R&F universe says **Melinda**—Anthony Cumia's former partner and a person who also called/sat in on R&F—became the subject of a recurring Dave feature inside Board Gossip called **“Sweet Melinda,”** built around funny things she wrote online.
+
+The post supplies four YouTube links to preserved examples, although the videos were not reliably fetchable during this research pass.
+
+Source:
+- https://forums.somethingawful.com/showthread.php?noseen=0&pagenumber=14&perpage=40&threadid=3716868
+
+**Evidence grade: D/C retrospective forum source; audio links exist but still need indexing.**
+
+### Why this matters
+
+“Sweet Melinda” would be a near-perfect Board Gossip micro-case:
+
+`known satellite personality → online posts → Dave packages posts into recurring radio feature → audience remembers feature years later`
+
+### Retrieval tasks
+
+- identify the four linked YouTube titles/dates;
+- identify which board/site Melinda was posting on;
+- determine whether “Sweet Melinda” had dedicated music;
+- map each post to its on-air reading;
+- distinguish R&F appearances from O&A relationship lore.
+
+---
+
 # Recurring phrasing/theme leads
 
 These are preserved as **oral-history leads**, not settled transcripts.
@@ -166,6 +225,19 @@ Source:
 
 Do not normalize exact wording until original audio is checked.
 
+Other remembered cues from later fan discussions include:
+
+- “Shhhhh...it's time for Board Gossip”;
+- “A little gossip, a little chat”;
+- “Razzle dazzle!”;
+- a remembered **George Jetson's car** sound effect in the transitions.
+
+Sources:
+- https://www.reddit.com/r/ronandfez/comments/sypwro/
+- https://www.reddit.com/r/ronandfez/comments/15znbem/
+
+These are useful targets for audio verification, not transcripts.
+
 ---
 
 # Theme music
@@ -174,15 +246,16 @@ Do not normalize exact wording until original audio is checked.
 
 Evidence:
 - repeated later listener identification;
-- remembered origin story involving Dave searching XM music by keyword.
+- remembered origin story involving Dave searching XM music by keyword;
+- 2024 listener recollection specifically locating Ron's question/Dave's explanation in the first real segment.
 
 Needed:
 - first direct audio use;
 - exact recording/cast version;
 - whether music changed by board/segment phase;
-- all transition songs.
+- all transition songs/sound effects.
 
-**Status: likely, not yet A-level.**
+**Status: strong C/E, not yet A-level.**
 
 ---
 
@@ -191,13 +264,13 @@ Needed:
 | Board/community | Direct evidence | Board Gossip use verified? |
 |---|---|---|
 | RonFez.net | extensive surviving site | presumed/remembered; episode-level mapping needed |
-| Wackbag | archived R&F forums/listening threads | remembered in Board Gossip; direct episode needed |
-| Full Blown Aids / FBA | contemporary O&A recaps | likely; exact R&F Board Gossip entries needed |
+| Wackbag | archived R&F forums/listening threads | repeatedly remembered in transitions; direct episode needed |
+| Full Blown Aids / FBA | contemporary O&A recaps + March 2007 outside R&F discussion | likely; exact R&F Board Gossip entries needed |
 | Paltalk | surviving Big ASS Room | incidents may be discussed, but not a static board source |
 | STI | period Bronx Johnny profile | unresolved |
 | 3rd Tier | period profile | unresolved |
 | Postwhores | period profile | unresolved |
-| Puddle of Aids | later Board Gossip memory | identity unresolved |
+| Puddle of Aids | later Board Gossip memory | identity unresolved; phrase also existed elsewhere in O&A culture |
 
 ---
 
@@ -226,9 +299,42 @@ As Board Gossip audio is recovered, index every mention. Initial high-priority i
 - Casey
 - Lilly
 - Pitzy
+- Melinda / “Sweet Melinda”
+- Chuckwagon / ChuckWagonCook
+- Matty Fridays
+- Spoon
 - board admins/moderators
 - Wackbag personalities
 - FBA personalities
+
+---
+
+# Fan reception as evidence about the format
+
+Contemporary and later fan discussions split sharply on Board Gossip.
+
+### Positive interpretation
+
+Some listeners remember it as a favorite because they already knew the posters and boards; one former RFNet member said the bit worked precisely because they had read and interacted with many of the people being discussed.
+
+Source:
+- https://www.reddit.com/r/ronandfez/comments/y3dwpj
+
+### Negative interpretation
+
+Other listeners remember Board Gossip as becoming too “inside,” or as encouraging message-board/Paltalk personalities to seek more airtime.
+
+Sources:
+- https://www.reddit.com/r/ronandfez/comments/kuh6h3
+- https://www.reddit.com/r/ronandfez/comments/sypwro/
+
+### Interpretive conclusion
+
+The same quality generated both reactions:
+
+> **Board Gossip rewarded high-context listeners.**
+
+If you knew the community, a name carried years of background. If you did not, the segment could sound like national radio reporting on strangers' petty internet arguments.
 
 ---
 
@@ -289,6 +395,8 @@ Use this template:
 5. Identify repeated people across multiple boards.
 6. Record deleted/missing original threads explicitly rather than inventing content.
 7. Where the original post is gone, use quotes only if preserved in audio or another contemporaneous archive.
+8. Treat general-forum discussions from 2006–10 as valuable independent evidence for when catchphrases/bits were already recognizable.
+9. Preserve subfeatures such as Sweet Melinda independently rather than flattening every Board Gossip into the same format.
 
 ---
 
@@ -304,5 +412,6 @@ A complete Board Gossip database could eventually let us quantify questions that
 - How quickly could an off-air post become national satellite content?
 - When did Paltalk replace/static-board stories, if at all?
 - When did the friends-of-show ecology begin to decline?
+- How many recurring mini-segments such as “Sweet Melinda” existed?
 
 That would turn one of the show's most ephemeral recurring bits into a searchable map of its **civilian information system**.
