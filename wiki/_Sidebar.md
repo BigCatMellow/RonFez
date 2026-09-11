@@ -11,6 +11,7 @@
 - [Music and Sonic Identity](Music-and-Sonic-Identity.md)
 - [Work, Shoot, and What We Know](Work-Shoot-and-What-We-Know.md)
 - [Archives, Sources, and Evidence](Archives-Sources-and-Evidence.md)
+- [Preserving the Ron & Fez Record](Preservation.md)
 
 ## Deep archive
 
@@ -20,3 +21,4 @@
 - [Events](https://github.com/BigCatMellow/RonFez/tree/main/events)
 - [Forensics](https://github.com/BigCatMellow/RonFez/tree/main/forensics)
 - [Reference / sources](https://github.com/BigCatMellow/RonFez/tree/main/reference)
+- [Preservation workspace](https://github.com/BigCatMellow/RonFez/tree/main/preservation)
