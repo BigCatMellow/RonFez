@@ -12,7 +12,8 @@ The fan ecosystem is treated as part of the *Ron & Fez* production system, not a
 - [`06-off-air-to-on-air-case-traces.md`](06-off-air-to-on-air-case-traces.md) — concrete cases tracing events/posts/relationships through community → broadcast → archive
 - [`07-friday-night-lights-social-institution.md`](07-friday-night-lights-social-institution.md) — Fez's 2005 Fairfax Friday-night social world at Thursdays, final July 29 gathering, Tender-song lead, and off-air→Monday-show research design
 - [`08-board-gossip-episode-ledger.md`](08-board-gossip-episode-ledger.md) — date-by-date Board Gossip reconstruction beginning with the Nov. 6/8, 2006 launch, recurring cues, source boards, Sweet Melinda and reception history
-- [`09-rfnet-decline-schisms-and-v3.md`](09-rfnet-decline-schisms-and-v3.md) — Most Post Wins oral history, board fragmentation, directly evidenced `ronfezv3.com`, FBA migration, Matty/Spoon conflict leads, Big ASS Antenna/streaming infrastructure
+- [`09-rfnet-decline-schisms-and-v3.md`](09-rfnet-decline-schisms-and-v3.md) — Most Post Wins oral history, board fragmentation, directly evidenced `ronfezv3.com`, FBA migration, Matty/Spoon conflict leads
+- [`10-wjfk-fan-streaming-and-big-ass-antenna.md`](10-wjfk-fan-streaming-and-big-ass-antenna.md) — Big ASS Antenna, Live365, Radio BBQ, Msteels/Steels, Winamp/user streams and RFNet as unofficial distribution infrastructure during WJFK
 
 ## Individual civilian biographies
 
@@ -34,6 +35,8 @@ Current sourced files include:
 - Big A / Andrew Gold
 - FleaMan / Flea
 - Chuckwagon / ChuckWagonCook / Lenny McNab
+- Hottub
+- spoon
 
 ## Whole-show audio map
 
@@ -58,7 +61,8 @@ The fan world generated enormous amounts of rumor. For this reason:
 - later nostalgia proves **what survived in collective memory**, not hidden backstage facts;
 - user titles, signatures and jokes are preserved as cultural artifacts but are not automatically literal biography;
 - exact identities and private relationships are included only where publicly established by participants or reliable records;
-- calling someone a “stalker,” “crazy,” “liar,” etc. is recorded as an attributed show/community characterization unless independently established.
+- calling someone a “stalker,” “crazy,” “liar,” etc. is recorded as an attributed show/community characterization unless independently established;
+- modern people-search/data-broker sites are not used to deanonymize old handles.
 
 ## Current strongest findings
 
@@ -79,6 +83,8 @@ The fan world generated enormous amounts of rumor. For this reason:
 15. B.L. / Brenda Lee is now documented back to the **Ron & Ron / Hooters on the Radio** era rather than being treated only as a later R&F caller.
 16. Official June 4, 2007 XM metadata directly confirms **Crazy Jen was on Paltalk**.
 17. ChuckWagonCook is strongly identifiable as later *Food Network Star* winner **Lenny McNab**, allowing his old R&F/RFNet history to be cross-checked against outside 2014 media coverage.
+18. Surviving RFNet gallery pages show high-volume civilian identities such as **Hottub (41,468 posts)** and **spoon (35,762 posts)**, underscoring how much accumulated social history a single handle could carry.
+19. WJFK listeners independently remember finding volunteer streams and recordings through RFNet, making the fan system an **unofficial distribution layer** as well as a social network.
 
 ## Immediate next targets
 
@@ -91,8 +97,9 @@ The fan world generated enormous amounts of rumor. For this reason:
 - reconstruct major Paltalk moderator conflicts;
 - identify the exact `RonFez.net vs Paltalk` Super Bowl simulcast;
 - trace Friday Night Lights incidents into Monday broadcasts;
-- build individual files for Stalker Patti, Mafia Life Chris, BabyGirl, Silera, Matty Fridays, Spoon, Hottub, Msteels/Steels and the many “Mikey” identities;
+- build individual files for Stalker Patti, Mafia Life Chris, BabyGirl, Silera, Matty Fridays, Friday, Msteels/Steels and the many “Mikey” identities;
 - reconstruct the Wackbag Ron Bennington Line of the Day archive and physical/book artifact;
-- recover Big ASS Antenna / Live365 / Radio BBQ distribution history for out-of-market WJFK listeners.
+- recover Big ASS Antenna / Live365 / Radio BBQ distribution history from contemporaneous pages;
+- determine whether today's Internet Archive WJFK files descend from any of the old listener-captured streams/recordings.
 
 No detail is too minor if a source survives.
