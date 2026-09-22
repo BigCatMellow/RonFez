@@ -16,6 +16,7 @@ The fan ecosystem is treated as part of the *Ron & Fez* production system, not a
 - [`10-wjfk-fan-streaming-and-big-ass-antenna.md`](10-wjfk-fan-streaming-and-big-ass-antenna.md) — fan-run distribution during WJFK
 - [`11-early-board-culture-2001-2003.md`](11-early-board-culture-2001-2003.md) — contemporary evidence of cross-board culture wars and RFNet moderation years before Board Gossip
 - [`12-rfnet-governance-foundrymusicjeff.md`](12-rfnet-governance-foundrymusicjeff.md) — direct 2002 evidence placing FoundryMusicJeff/Jeff Shain in RFNet's governing and technical layer
+- [`13-opie-anthony-comparative-fandom.md`](13-opie-anthony-comparative-fandom.md) — bounded comparative branch on O&A Army/Pests, action-oriented fandom, R&F crossover, and the working belonging-vs-mobilization model
 
 ## Major governance breakthrough
 
