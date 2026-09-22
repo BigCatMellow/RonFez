@@ -30,6 +30,9 @@ Ron and Fez are the center, but “cast” never meant only payroll. This page m
 ### [The Secondary Universe](The-Secondary-Universe.md)
 RonFez.net, Paltalk, Wackbag, Full Blown Aids, Board Gossip, Friday Night Lights, fan streaming, Big ASS identity, RFNet schisms, and the entire off-air civilization that fed material back into the broadcast.
 
+### [Opie & Anthony as a Comparative Fandom](Opie-and-Anthony-Comparative-Fandom.md)
+A bounded comparison with the neighboring O&A Army/Pests ecosystem: shared WNEW roots and crossover, but a different center of gravity around mobilization, public action, rivalry and listener-generated events. The page treats the contrast as a research hypothesis rather than a finished judgment.
+
 ### [Live Events](Live-Events.md)
 Big ASS Night of Fights, the Big ASS Bash, Dave and Casey's wedding, New York Forever gatherings, Fairfax tournaments, RF softball, bar nights, parties, simulcasts, Ronnie Spector, FezCon, and the smaller gatherings where usernames became actual people.
 

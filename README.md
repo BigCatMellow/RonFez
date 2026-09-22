@@ -22,6 +22,7 @@ The main continuously maintained narrative. It reads as a **compiled oral histor
 - [`wiki/Timeline.md`](wiki/Timeline.md) — full era map from *Ron & Ron* through the 2026 archive/reconstruction period
 - [`wiki/People-and-Cast.md`](wiki/People-and-Cast.md) — hosts, staff, fictional callers, civilians, creators and cast pathways
 - [`wiki/The-Secondary-Universe.md`](wiki/The-Secondary-Universe.md) — RonFez.net, Paltalk, boards, fan streaming, community hierarchy and afterlife
+- [`wiki/Opie-and-Anthony-Comparative-Fandom.md`](wiki/Opie-and-Anthony-Comparative-Fandom.md) — bounded comparison with the neighboring O&A Army/Pests ecosystem and R&F crossover
 - [`wiki/Live-Events.md`](wiki/Live-Events.md) — fights, bar culture, weddings, parties, simulcasts and memorial events
 - [`wiki/Comedy-Bits-and-Formats.md`](wiki/Comedy-Bits-and-Formats.md) — Comedy Pyramid through Cakehorn/Steakgate and failure-as-format
 - [`wiki/Music-and-Sonic-Identity.md`](wiki/Music-and-Sonic-Identity.md) — deep tracks, rejoiners, openers, production and ritual music

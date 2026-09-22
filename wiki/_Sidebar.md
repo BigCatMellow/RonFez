@@ -5,6 +5,7 @@
 - [Timeline](Timeline.md)
 - [People and Cast](People-and-Cast.md)
 - [The Secondary Universe](The-Secondary-Universe.md)
+- [O&A Comparative Fandom](Opie-and-Anthony-Comparative-Fandom.md)
 - [Live Events](Live-Events.md)
 - [Comedy, Bits, and Formats](Comedy-Bits-and-Formats.md)
 - [Fez Whatley — The Nature Boy](Nature-Boy.md)
